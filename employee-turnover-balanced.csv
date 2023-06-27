@@ -1,0 +1,1001 @@
+left_company,age,frequency_of_travel,department,commuting_distance,education,satisfaction_with_environment,gender,seniority_level,position,satisfaction_with_job,married_or_single,last_raise_pct,last_performance_rating,total_years_working,years_at_company,years_in_current_job,years_since_last_promotion,years_with_current_supervisor
+No,37,Travel_Rarely,Sales,16,4,4,Male,2,Sales Executive,3,Divorced,19,3,9,1,0,0,0
+No,39,Travel_Rarely,Research & Development,3,2,3,Male,2,Laboratory Technician,3,Divorced,15,3,11,10,8,0,7
+No,52,Travel_Frequently,Research & Development,25,4,3,Female,4,Manufacturing Director,4,Married,22,4,31,9,8,0,0
+No,50,Non-Travel,Sales,1,3,4,Female,2,Sales Executive,3,Married,12,3,19,18,7,0,13
+No,44,Travel_Rarely,Research & Development,4,3,4,Male,2,Healthcare Representative,2,Single,12,3,10,5,2,2,3
+No,42,Travel_Rarely,Human Resources,10,3,3,Female,4,Manager,1,Married,14,3,21,20,7,0,9
+No,43,Travel_Rarely,Research & Development,8,3,1,Female,2,Manufacturing Director,2,Divorced,21,4,4,1,0,0,0
+No,34,Travel_Rarely,Sales,1,4,2,Male,2,Sales Executive,4,Divorced,11,3,16,15,1,0,9
+No,52,Non-Travel,Research & Development,19,4,4,Male,1,Research Scientist,4,Married,18,3,5,4,3,1,2
+No,43,Travel_Rarely,Research & Development,15,2,3,Male,4,Research Director,3,Married,24,4,14,14,10,6,11
+No,36,Travel_Rarely,Sales,3,4,1,Female,2,Sales Executive,2,Single,16,3,15,5,4,0,1
+No,29,Travel_Frequently,Research & Development,1,4,2,Male,1,Research Scientist,4,Divorced,18,3,10,10,7,2,8
+No,40,Travel_Frequently,Sales,2,4,2,Male,2,Sales Executive,2,Married,12,3,5,0,0,0,0
+No,37,Travel_Rarely,Research & Development,3,3,4,Female,2,Healthcare Representative,2,Single,15,3,8,4,3,0,1
+No,39,Travel_Rarely,Research & Development,10,1,3,Male,4,Manager,1,Married,14,3,21,21,9,11,10
+No,42,Travel_Rarely,Research & Development,6,3,3,Male,3,Research Director,1,Married,13,3,18,13,7,5,7
+No,33,Travel_Rarely,Research & Development,1,3,2,Female,2,Healthcare Representative,4,Single,14,3,6,5,0,1,4
+No,40,Travel_Rarely,Research & Development,10,4,4,Female,1,Laboratory Technician,3,Married,13,3,10,7,7,1,7
+No,44,Travel_Rarely,Research & Development,7,3,2,Female,5,Research Director,4,Divorced,14,3,23,22,7,1,10
+No,21,Travel_Rarely,Research & Development,15,2,3,Male,1,Research Scientist,4,Single,14,3,0,0,0,0,0
+No,36,Travel_Frequently,Sales,3,4,1,Male,3,Sales Executive,4,Married,11,3,16,13,9,1,12
+No,27,Travel_Frequently,Sales,8,1,3,Male,2,Sales Executive,4,Married,19,3,5,4,2,1,1
+No,38,Travel_Rarely,Research & Development,3,5,4,Female,2,Research Scientist,3,Single,20,4,19,3,2,2,2
+No,45,Travel_Frequently,Research & Development,1,4,2,Male,2,Healthcare Representative,3,Single,12,3,12,4,2,0,3
+No,35,Non-Travel,Research & Development,8,4,3,Female,2,Healthcare Representative,3,Married,12,3,15,14,11,2,9
+No,41,Travel_Rarely,Sales,6,3,4,Male,3,Sales Executive,3,Single,12,3,10,10,8,8,7
+No,49,Travel_Rarely,Research & Development,1,3,3,Male,4,Manager,3,Single,14,3,23,8,7,0,0
+No,34,Travel_Rarely,Sales,28,3,4,Female,2,Sales Executive,3,Married,21,4,8,8,7,1,7
+No,47,Non-Travel,Research & Development,14,4,3,Male,2,Research Scientist,2,Married,18,3,16,8,7,1,7
+No,36,Travel_Rarely,Research & Development,5,4,2,Female,3,Healthcare Representative,1,Married,12,3,9,3,2,0,2
+No,35,Travel_Frequently,Sales,18,5,2,Male,3,Sales Executive,1,Married,22,4,9,9,8,1,8
+No,55,Travel_Rarely,Research & Development,20,2,2,Male,2,Laboratory Technician,4,Married,19,3,12,10,7,0,8
+No,36,Travel_Frequently,Research & Development,18,4,3,Male,1,Laboratory Technician,4,Married,18,3,4,1,0,0,0
+No,32,Travel_Rarely,Research & Development,5,4,4,Male,2,Manufacturing Director,4,Single,24,4,8,1,0,0,0
+No,47,Travel_Rarely,Sales,2,2,3,Female,2,Sales Executive,4,Married,22,4,8,7,6,7,7
+No,44,Travel_Rarely,Research & Development,29,4,4,Male,2,Research Scientist,4,Single,25,4,20,20,11,13,17
+No,39,Travel_Frequently,Research & Development,22,3,4,Female,3,Manufacturing Director,1,Single,13,3,21,21,6,2,8
+No,29,Travel_Rarely,Research & Development,8,1,2,Male,2,Manufacturing Director,4,Married,15,3,10,10,7,1,2
+No,40,Travel_Rarely,Research & Development,1,4,2,Male,1,Laboratory Technician,2,Married,22,4,7,4,2,0,3
+No,32,Travel_Rarely,Research & Development,29,4,3,Female,1,Laboratory Technician,2,Single,13,3,6,6,2,4,1
+No,36,Travel_Rarely,Research & Development,10,4,4,Female,3,Healthcare Representative,3,Married,12,3,10,7,7,1,7
+No,42,Non-Travel,Research & Development,23,2,4,Male,2,Research Scientist,3,Single,12,3,20,20,9,3,7
+No,44,Non-Travel,Research & Development,5,3,3,Male,1,Laboratory Technician,3,Single,14,3,7,5,2,0,3
+No,31,Travel_Rarely,Sales,2,1,2,Male,2,Sales Executive,4,Single,13,3,10,6,5,0,5
+No,27,Travel_Rarely,Research & Development,8,3,2,Female,1,Research Scientist,3,Married,17,3,5,3,2,0,2
+No,26,Travel_Rarely,Research & Development,1,2,1,Male,1,Laboratory Technician,1,Married,16,3,6,5,3,1,3
+No,36,Travel_Rarely,Research & Development,2,3,4,Female,1,Research Scientist,3,Married,13,3,6,2,2,2,2
+No,40,Travel_Rarely,Research & Development,2,2,1,Male,5,Research Director,3,Divorced,19,3,22,21,7,3,9
+No,58,Travel_Rarely,Research & Development,1,3,4,Female,5,Research Director,1,Married,21,4,32,9,8,1,5
+No,35,Travel_Rarely,Research & Development,4,2,3,Male,1,Laboratory Technician,4,Divorced,12,3,1,1,0,0,0
+No,34,Travel_Rarely,Research & Development,19,3,2,Female,1,Research Scientist,4,Married,12,3,10,10,9,8,7
+No,31,Travel_Rarely,Research & Development,23,3,2,Male,2,Healthcare Representative,4,Married,21,4,10,9,0,7,8
+No,35,Travel_Rarely,Research & Development,2,3,3,Male,3,Manufacturing Director,2,Divorced,18,3,15,7,7,6,4
+No,29,Travel_Rarely,Research & Development,21,4,2,Female,3,Manufacturing Director,1,Divorced,11,3,10,10,9,8,8
+No,57,Travel_Rarely,Research & Development,24,2,3,Male,3,Healthcare Representative,4,Divorced,16,3,12,5,3,1,4
+No,30,Non-Travel,Research & Development,1,1,3,Male,3,Manufacturing Director,3,Single,22,4,12,11,8,5,8
+No,35,Travel_Rarely,Sales,16,3,3,Male,3,Sales Executive,2,Married,15,3,12,11,9,6,9
+No,40,Travel_Frequently,Research & Development,11,3,4,Female,2,Laboratory Technician,3,Married,11,3,10,10,9,9,4
+No,45,Travel_Rarely,Sales,20,3,4,Female,2,Sales Executive,3,Single,15,3,8,5,3,0,1
+No,40,Travel_Rarely,Research & Development,4,1,4,Female,5,Manager,3,Married,14,3,21,20,8,9,9
+No,25,Travel_Rarely,Sales,13,1,2,Male,1,Sales Representative,3,Married,11,3,7,7,4,0,6
+No,34,Travel_Rarely,Research & Development,2,4,3,Female,1,Research Scientist,1,Single,11,3,6,6,5,1,3
+No,36,Non-Travel,Research & Development,9,4,1,Male,1,Laboratory Technician,2,Married,22,4,5,5,4,0,2
+No,40,Travel_Rarely,Human Resources,6,2,3,Male,4,Manager,4,Single,21,4,21,21,7,7,7
+No,28,Travel_Rarely,Human Resources,8,2,2,Male,1,Human Resources,4,Divorced,13,3,6,5,1,0,4
+No,34,Travel_Rarely,Sales,14,3,3,Female,1,Sales Representative,3,Divorced,18,3,8,8,2,0,6
+No,40,Travel_Rarely,Research & Development,2,3,3,Male,1,Research Scientist,3,Divorced,14,3,8,3,1,1,2
+No,41,Travel_Rarely,Sales,8,3,3,Female,2,Sales Executive,2,Married,21,4,14,5,4,1,4
+No,34,Travel_Rarely,Research & Development,1,2,2,Male,1,Research Scientist,4,Married,13,3,6,6,5,1,3
+No,31,Travel_Rarely,Sales,8,2,1,Male,3,Sales Executive,4,Divorced,18,3,13,13,7,9,9
+No,43,Travel_Frequently,Sales,15,3,4,Male,2,Sales Executive,4,Married,18,3,7,2,2,2,2
+No,54,Travel_Rarely,Human Resources,19,4,3,Male,3,Human Resources,2,Married,15,3,16,9,7,7,1
+No,47,Travel_Rarely,Research & Development,25,3,1,Male,3,Healthcare Representative,3,Single,23,4,25,17,14,12,11
+No,39,Travel_Frequently,Sales,20,3,3,Male,2,Sales Executive,4,Divorced,18,3,7,2,1,2,2
+No,30,Travel_Rarely,Sales,29,4,3,Male,2,Sales Executive,1,Divorced,19,3,8,4,3,0,3
+No,20,Travel_Rarely,Research & Development,3,3,1,Male,1,Laboratory Technician,3,Single,12,3,2,2,2,1,2
+No,29,Travel_Rarely,Sales,20,2,4,Male,2,Sales Executive,4,Divorced,14,3,10,3,2,0,2
+No,36,Travel_Rarely,Sales,2,2,2,Male,3,Sales Executive,3,Married,13,3,10,10,9,9,0
+No,34,Travel_Rarely,Research & Development,2,4,4,Male,2,Manufacturing Director,1,Married,13,3,13,11,9,5,9
+No,43,Travel_Rarely,Research & Development,12,3,1,Male,4,Research Director,2,Divorced,11,3,25,25,10,3,9
+No,27,Travel_Rarely,Research & Development,5,3,3,Female,1,Research Scientist,2,Single,12,3,4,4,3,1,2
+No,32,Non-Travel,Sales,26,4,3,Male,2,Sales Executive,4,Married,18,3,4,3,2,2,2
+No,47,Travel_Rarely,Research & Development,4,3,3,Female,3,Manufacturing Director,2,Divorced,12,3,28,22,11,14,10
+No,32,Travel_Rarely,Research & Development,5,4,2,Female,1,Research Scientist,4,Married,17,3,6,3,2,0,2
+No,40,Non-Travel,Research & Development,8,1,4,Male,3,Research Director,2,Divorced,11,3,16,9,8,4,8
+No,30,Travel_Rarely,Sales,15,2,3,Male,3,Sales Executive,1,Divorced,11,3,12,7,7,1,7
+No,42,Travel_Rarely,Research & Development,12,3,2,Male,1,Laboratory Technician,2,Divorced,22,4,7,5,3,0,4
+No,31,Non-Travel,Research & Development,1,4,3,Male,2,Manufacturing Director,3,Married,12,3,6,5,4,1,4
+No,26,Travel_Rarely,Human Resources,25,1,3,Female,1,Human Resources,3,Married,23,4,8,8,7,5,7
+No,32,Travel_Frequently,Research & Development,13,3,3,Female,1,Laboratory Technician,2,Married,20,4,2,2,2,2,2
+No,33,Travel_Frequently,Sales,10,3,2,Male,2,Sales Executive,4,Single,14,3,9,7,7,0,1
+No,28,Travel_Rarely,Research & Development,9,3,4,Male,1,Research Scientist,4,Married,23,4,5,5,2,0,4
+No,44,Travel_Frequently,Sales,1,5,1,Female,2,Sales Executive,3,Married,12,3,11,1,0,0,0
+No,25,Travel_Rarely,Research & Development,2,1,1,Male,1,Research Scientist,1,Single,13,3,6,4,3,0,1
+No,50,Travel_Frequently,Research & Development,2,3,4,Female,4,Manager,1,Married,22,4,32,2,2,2,2
+No,54,Travel_Rarely,Research & Development,3,3,4,Male,4,Research Director,4,Married,14,3,36,10,9,0,9
+No,34,Travel_Rarely,Sales,10,4,3,Female,1,Sales Representative,3,Married,19,3,1,1,1,0,0
+No,38,Travel_Rarely,Sales,10,4,3,Male,3,Sales Executive,3,Divorced,14,3,9,8,7,2,7
+No,45,Non-Travel,Research & Development,4,2,3,Male,2,Laboratory Technician,2,Married,12,3,9,9,7,0,8
+No,45,Travel_Rarely,Research & Development,7,3,2,Male,3,Research Scientist,1,Divorced,17,3,25,1,0,0,0
+No,35,Travel_Rarely,Research & Development,1,3,2,Male,1,Research Scientist,3,Single,18,3,6,6,4,0,4
+No,47,Non-Travel,Sales,2,4,3,Male,2,Sales Executive,2,Married,11,3,4,1,0,0,0
+No,27,Travel_Frequently,Research & Development,1,1,3,Male,2,Manufacturing Director,1,Married,19,3,6,2,2,2,0
+No,40,Travel_Rarely,Research & Development,19,2,3,Male,2,Laboratory Technician,4,Married,15,3,15,7,2,3,7
+No,32,Travel_Frequently,Sales,9,2,4,Male,2,Sales Executive,4,Divorced,17,3,9,8,7,0,7
+No,26,Travel_Rarely,Research & Development,6,3,3,Female,1,Research Scientist,2,Married,19,3,5,5,4,4,3
+No,21,Travel_Rarely,Sales,5,1,3,Male,1,Sales Representative,1,Single,11,3,2,2,2,1,2
+No,38,Travel_Rarely,Research & Development,29,3,4,Male,2,Manufacturing Director,4,Married,18,3,9,7,7,1,7
+No,36,Travel_Frequently,Research & Development,6,4,1,Male,2,Laboratory Technician,1,Married,13,3,9,3,2,0,2
+No,24,Non-Travel,Research & Development,4,1,1,Male,1,Laboratory Technician,4,Married,17,3,6,5,2,3,4
+No,49,Travel_Rarely,Research & Development,18,4,4,Male,5,Research Director,3,Divorced,17,3,31,31,9,0,9
+No,59,Travel_Frequently,Sales,1,1,1,Female,2,Sales Executive,3,Single,11,3,20,4,3,1,3
+No,48,Travel_Rarely,Sales,2,5,2,Female,2,Sales Executive,4,Married,14,3,14,9,7,6,7
+No,59,Travel_Rarely,Research & Development,18,4,4,Male,3,Manufacturing Director,4,Single,12,3,25,9,7,5,4
+No,35,Travel_Rarely,Research & Development,9,3,4,Female,3,Manufacturing Director,3,Married,20,4,17,17,14,5,15
+No,44,Travel_Rarely,Research & Development,8,4,1,Male,1,Laboratory Technician,4,Married,24,4,10,3,2,0,2
+No,22,Travel_Rarely,Research & Development,6,1,1,Male,1,Research Scientist,3,Married,20,4,3,2,2,2,2
+No,22,Travel_Rarely,Research & Development,1,2,4,Male,2,Manufacturing Director,4,Married,22,4,4,2,2,2,2
+No,49,Travel_Rarely,Research & Development,7,4,3,Male,3,Healthcare Representative,2,Divorced,14,3,29,8,7,0,7
+No,45,Travel_Rarely,Research & Development,2,2,4,Female,2,Manufacturing Director,4,Divorced,19,3,10,10,7,3,9
+No,38,Travel_Rarely,Sales,1,4,1,Female,2,Sales Executive,4,Single,22,4,12,8,3,0,7
+No,50,Travel_Rarely,Research & Development,29,4,2,Male,4,Manager,3,Married,15,3,28,27,10,15,7
+No,22,Travel_Rarely,Research & Development,5,3,4,Male,1,Research Scientist,2,Divorced,16,3,4,4,2,2,2
+No,60,Travel_Rarely,Sales,7,4,2,Male,2,Sales Executive,4,Divorced,18,3,12,11,7,1,9
+No,31,Travel_Rarely,Sales,5,3,1,Male,2,Sales Executive,3,Married,19,3,6,5,2,0,2
+No,55,Travel_Rarely,Research & Development,2,2,4,Female,5,Manager,3,Married,14,3,23,19,9,9,11
+No,39,Travel_Rarely,Sales,6,3,4,Male,3,Sales Executive,3,Married,11,3,11,7,6,7,6
+No,40,Non-Travel,Research & Development,9,5,4,Male,2,Healthcare Representative,4,Married,14,3,5,3,2,0,2
+No,30,Travel_Rarely,Sales,7,4,4,Female,2,Sales Executive,1,Divorced,14,3,8,3,2,0,2
+No,26,Travel_Rarely,Sales,28,2,1,Male,2,Sales Executive,2,Married,20,4,6,5,3,1,4
+No,39,Travel_Rarely,Research & Development,1,4,3,Female,1,Laboratory Technician,3,Divorced,14,3,7,3,2,1,2
+No,40,Travel_Rarely,Research & Development,2,3,3,Male,2,Research Scientist,4,Single,13,3,9,9,8,8,8
+No,38,Travel_Frequently,Research & Development,29,5,4,Female,2,Laboratory Technician,4,Single,11,3,10,10,3,9,9
+No,52,Travel_Rarely,Research & Development,4,2,4,Female,4,Manager,4,Married,13,3,31,5,2,1,4
+No,44,Travel_Rarely,Research & Development,1,4,2,Male,2,Healthcare Representative,1,Married,15,3,10,2,0,2,2
+No,38,Travel_Rarely,Research & Development,2,5,4,Male,1,Research Scientist,3,Married,13,3,6,1,0,0,1
+No,28,Travel_Rarely,Sales,3,3,2,Female,1,Sales Representative,2,Married,19,3,1,1,0,0,0
+No,53,Travel_Rarely,Sales,7,2,1,Female,3,Sales Executive,4,Married,18,3,35,5,2,0,4
+No,50,Travel_Rarely,Research & Development,11,3,3,Female,5,Manager,2,Single,15,3,21,5,4,4,4
+No,38,Non-Travel,Research & Development,6,3,2,Female,2,Research Scientist,4,Divorced,12,3,17,13,11,1,9
+No,55,Travel_Frequently,Research & Development,18,4,3,Male,2,Healthcare Representative,2,Married,14,3,17,8,7,6,7
+No,52,Non-Travel,Sales,2,4,1,Male,5,Manager,3,Single,18,3,33,33,7,15,12
+No,50,Travel_Rarely,Research & Development,17,5,4,Female,3,Research Director,1,Divorced,15,3,19,14,11,1,11
+No,35,Travel_Rarely,Research & Development,28,3,2,Male,2,Laboratory Technician,3,Married,17,3,10,10,9,6,8
+No,39,Travel_Rarely,Research & Development,9,2,1,Male,2,Manufacturing Director,1,Married,25,4,10,10,0,7,9
+No,35,Travel_Frequently,Research & Development,18,4,3,Male,2,Healthcare Representative,3,Married,14,3,10,10,2,0,2
+No,33,Travel_Frequently,Sales,1,3,3,Female,2,Sales Executive,1,Married,19,3,10,5,3,1,3
+No,59,Travel_Rarely,Sales,3,3,3,Female,2,Sales Executive,4,Single,17,3,13,6,1,0,5
+No,28,Travel_Rarely,Research & Development,3,3,4,Female,3,Manufacturing Director,2,Divorced,17,3,10,9,7,1,7
+No,38,Travel_Rarely,Research & Development,2,3,4,Male,1,Research Scientist,4,Single,11,3,6,3,2,1,2
+No,37,Travel_Rarely,Research & Development,6,3,3,Male,2,Research Scientist,1,Divorced,13,3,13,7,7,6,7
+No,43,Travel_Frequently,Research & Development,10,4,3,Female,1,Laboratory Technician,4,Single,19,3,9,8,7,1,7
+No,34,Travel_Frequently,Research & Development,10,4,3,Male,2,Manufacturing Director,4,Divorced,13,3,9,9,7,7,2
+No,31,Travel_Frequently,Research & Development,7,2,3,Female,3,Manufacturing Director,3,Married,24,4,10,10,9,8,9
+No,31,Travel_Rarely,Research & Development,11,4,4,Male,1,Research Scientist,4,Married,19,3,8,6,4,0,2
+No,30,Travel_Rarely,Sales,12,3,2,Female,2,Sales Executive,3,Single,11,3,6,5,4,4,4
+No,44,Travel_Rarely,Research & Development,4,2,3,Male,5,Manager,1,Divorced,14,3,26,25,9,14,13
+No,27,Travel_Rarely,Sales,2,2,1,Female,2,Sales Executive,3,Single,14,3,9,8,7,0,7
+No,34,Travel_Rarely,Human Resources,3,2,3,Male,1,Human Resources,4,Married,19,3,4,3,2,0,2
+No,53,Travel_Frequently,Sales,2,3,3,Female,3,Sales Executive,2,Married,12,3,30,15,7,6,12
+No,40,Travel_Frequently,Research & Development,26,3,2,Female,2,Research Scientist,2,Divorced,11,3,20,20,7,2,13
+No,27,Travel_Rarely,Sales,10,3,4,Female,2,Sales Executive,4,Married,11,3,6,6,2,4,4
+No,52,Travel_Rarely,Research & Development,3,3,4,Male,3,Manufacturing Director,3,Married,14,3,28,5,4,0,4
+No,32,Travel_Rarely,Research & Development,6,5,3,Male,1,Research Scientist,3,Single,20,4,8,5,4,1,4
+No,34,Travel_Frequently,Research & Development,16,4,3,Female,1,Research Scientist,4,Single,16,3,6,5,2,1,3
+No,47,Travel_Rarely,Research & Development,2,2,3,Female,4,Manager,4,Married,11,3,26,26,14,3,0
+No,45,Non-Travel,Sales,26,3,1,Male,2,Sales Executive,1,Married,15,3,10,10,7,4,5
+No,35,Travel_Rarely,Research & Development,22,3,4,Male,1,Laboratory Technician,3,Single,15,3,6,5,4,4,3
+No,22,Travel_Rarely,Research & Development,19,1,3,Male,1,Research Scientist,4,Married,24,4,2,2,2,2,2
+No,52,Travel_Rarely,Research & Development,7,4,2,Male,3,Healthcare Representative,2,Single,19,3,18,8,6,4,0
+No,36,Travel_Rarely,Research & Development,9,2,2,Male,2,Manufacturing Director,2,Divorced,11,3,13,3,2,0,2
+No,30,Travel_Rarely,Human Resources,9,3,3,Male,2,Human Resources,4,Married,19,3,12,11,9,4,7
+No,24,Travel_Rarely,Research & Development,17,2,4,Male,1,Laboratory Technician,2,Married,21,4,1,1,0,0,0
+No,32,Travel_Rarely,Sales,13,4,2,Male,2,Sales Executive,4,Divorced,11,3,8,5,2,0,3
+No,45,Travel_Rarely,Sales,2,3,4,Male,2,Sales Executive,2,Married,19,3,9,8,7,3,7
+No,36,Travel_Rarely,Sales,16,4,3,Female,2,Sales Executive,1,Married,13,3,11,3,2,0,2
+No,27,Travel_Rarely,Research & Development,16,4,3,Female,1,Laboratory Technician,2,Married,14,3,4,2,2,2,2
+No,44,Travel_Rarely,Research & Development,10,4,4,Male,2,Healthcare Representative,4,Married,13,3,9,4,2,1,3
+No,59,Non-Travel,Human Resources,2,4,3,Female,5,Manager,4,Married,21,4,30,3,2,2,2
+No,53,Travel_Rarely,Research & Development,2,3,4,Male,4,Research Director,2,Single,12,3,35,9,8,8,8
+No,25,Travel_Rarely,Sales,3,1,3,Male,2,Sales Executive,1,Married,18,3,5,5,3,0,3
+No,43,Travel_Frequently,Research & Development,1,3,4,Female,2,Healthcare Representative,4,Married,13,3,12,5,2,2,2
+No,36,Travel_Rarely,Research & Development,12,4,3,Female,2,Manufacturing Director,3,Married,12,3,7,3,2,1,1
+No,50,Travel_Frequently,Sales,12,3,3,Female,3,Sales Executive,4,Single,11,3,16,2,2,2,1
+No,38,Travel_Rarely,Research & Development,2,2,4,Female,3,Manufacturing Director,3,Married,19,3,10,5,4,0,2
+No,34,Travel_Rarely,Research & Development,29,3,2,Male,2,Laboratory Technician,3,Married,13,3,10,8,7,7,7
+No,54,Travel_Rarely,Research & Development,22,5,2,Female,4,Manager,3,Married,25,4,36,10,8,4,7
+No,30,Non-Travel,Research & Development,9,3,3,Male,2,Laboratory Technician,1,Divorced,11,3,12,12,9,6,10
+No,38,Travel_Frequently,Research & Development,2,2,4,Male,1,Laboratory Technician,4,Married,23,4,1,1,0,0,0
+No,42,Travel_Frequently,Research & Development,5,2,2,Male,1,Laboratory Technician,3,Married,17,3,8,2,2,2,0
+No,32,Non-Travel,Research & Development,1,4,4,Male,2,Research Scientist,1,Married,14,3,9,6,5,1,2
+No,39,Travel_Rarely,Research & Development,10,1,3,Male,3,Research Director,3,Single,21,4,9,4,3,2,2
+No,52,Travel_Rarely,Research & Development,1,2,4,Male,4,Manager,4,Married,15,3,26,9,8,7,8
+No,58,Travel_Rarely,Research & Development,5,3,3,Female,3,Healthcare Representative,2,Divorced,13,3,24,6,0,0,4
+No,51,Travel_Rarely,Research & Development,3,3,4,Female,4,Healthcare Representative,2,Single,18,3,21,7,7,1,0
+No,31,Travel_Frequently,Sales,2,4,4,Male,2,Sales Executive,1,Single,13,3,10,5,2,0,3
+No,40,Travel_Frequently,Sales,5,4,4,Male,3,Sales Executive,1,Married,21,4,20,18,13,1,12
+No,49,Travel_Rarely,Research & Development,20,4,3,Female,2,Manufacturing Director,1,Married,14,3,16,15,11,5,11
+No,45,Travel_Rarely,Research & Development,20,2,3,Male,4,Healthcare Representative,4,Married,14,3,21,20,7,4,10
+No,34,Non-Travel,Sales,10,3,4,Male,2,Sales Executive,3,Divorced,14,3,15,15,14,0,7
+No,52,Non-Travel,Sales,29,4,1,Male,1,Sales Representative,4,Divorced,15,3,16,9,8,0,0
+No,39,Travel_Rarely,Research & Development,1,3,3,Male,3,Healthcare Representative,4,Divorced,17,3,19,18,10,3,7
+No,33,Non-Travel,Sales,16,3,3,Female,2,Sales Executive,4,Divorced,25,4,7,6,5,1,2
+No,27,Travel_Frequently,Research & Development,10,2,4,Male,3,Manufacturing Director,1,Divorced,21,4,9,9,7,1,7
+No,42,Travel_Rarely,Sales,4,4,2,Male,2,Sales Executive,1,Single,13,3,9,6,4,1,5
+No,29,Travel_Rarely,Research & Development,15,1,2,Female,1,Research Scientist,4,Married,18,3,6,5,4,1,3
+No,18,Non-Travel,Research & Development,14,3,2,Female,1,Research Scientist,3,Single,16,3,0,0,0,0,0
+No,44,Travel_Rarely,Research & Development,20,3,4,Male,1,Research Scientist,2,Single,13,3,6,5,2,1,3
+No,29,Travel_Rarely,Research & Development,9,5,2,Male,1,Laboratory Technician,4,Single,17,3,4,3,2,2,2
+No,30,Non-Travel,Research & Development,3,3,3,Male,1,Laboratory Technician,4,Married,15,3,9,5,3,1,4
+No,30,Travel_Rarely,Research & Development,1,3,4,Male,1,Laboratory Technician,3,Married,21,4,7,2,2,0,2
+No,46,Travel_Rarely,Sales,2,3,3,Female,4,Manager,1,Married,23,4,28,26,15,15,9
+No,37,Travel_Rarely,Research & Development,7,4,4,Male,2,Research Scientist,1,Married,22,4,16,5,3,0,4
+No,37,Travel_Rarely,Research & Development,1,3,4,Female,1,Research Scientist,4,Single,12,3,17,17,12,5,7
+No,36,Travel_Rarely,Research & Development,8,3,3,Female,3,Healthcare Representative,3,Divorced,13,3,17,17,14,12,8
+No,55,Travel_Rarely,Research & Development,2,3,3,Female,4,Manager,4,Single,13,3,30,5,4,1,2
+No,39,Travel_Frequently,Research & Development,4,3,1,Female,2,Manufacturing Director,3,Single,13,3,10,9,2,3,8
+No,44,Travel_Rarely,Research & Development,7,4,1,Female,3,Healthcare Representative,4,Married,14,3,24,22,6,5,17
+No,31,Non-Travel,Sales,2,4,4,Female,3,Sales Executive,3,Divorced,19,3,10,10,8,9,6
+No,36,Travel_Rarely,Research & Development,6,2,2,Male,2,Manufacturing Director,2,Divorced,20,4,7,3,2,0,1
+No,29,Travel_Rarely,Research & Development,3,1,2,Male,1,Laboratory Technician,1,Single,18,3,10,10,9,1,5
+No,38,Travel_Rarely,Research & Development,15,2,3,Male,3,Research Director,4,Divorced,14,3,12,11,10,2,9
+No,33,Travel_Rarely,Research & Development,9,3,1,Male,1,Research Scientist,4,Married,13,3,15,14,10,4,10
+No,33,Travel_Rarely,Research & Development,1,5,1,Female,4,Research Director,3,Divorced,19,3,10,6,1,0,5
+No,33,Travel_Rarely,Research & Development,2,3,3,Male,1,Laboratory Technician,4,Single,11,3,7,1,1,0,0
+No,20,Travel_Rarely,Sales,9,1,4,Male,1,Sales Representative,1,Single,11,3,2,2,2,0,2
+No,46,Travel_Rarely,Research & Development,15,2,4,Male,5,Research Director,2,Married,11,3,25,4,2,0,3
+No,31,Travel_Frequently,Research & Development,3,4,2,Male,3,Research Director,3,Divorced,12,3,9,2,2,2,2
+No,22,Travel_Rarely,Research & Development,8,1,2,Male,1,Laboratory Technician,1,Married,15,3,4,4,3,1,1
+No,33,Travel_Rarely,Research & Development,14,3,4,Female,1,Research Scientist,2,Married,13,3,8,8,7,1,6
+No,35,Non-Travel,Research & Development,11,2,3,Male,3,Healthcare Representative,1,Married,13,3,10,4,0,2,3
+No,35,Travel_Rarely,Sales,3,4,4,Male,3,Sales Executive,4,Divorced,13,3,12,10,9,0,8
+No,38,Travel_Rarely,Research & Development,25,2,1,Female,3,Research Director,2,Married,17,3,19,10,8,0,1
+No,35,Travel_Rarely,Research & Development,1,4,4,Male,1,Laboratory Technician,3,Married,12,3,10,8,0,1,7
+No,26,Travel_Rarely,Research & Development,2,2,4,Male,2,Manufacturing Director,4,Married,12,3,8,8,7,1,3
+No,49,Travel_Rarely,Research & Development,7,3,2,Male,3,Healthcare Representative,3,Single,24,4,26,5,2,0,0
+No,27,Travel_Rarely,Research & Development,1,2,3,Female,3,Manufacturing Director,1,Married,11,3,9,9,7,0,7
+No,30,Travel_Frequently,Research & Development,23,3,1,Male,1,Research Scientist,3,Divorced,25,4,10,10,7,0,9
+No,59,Travel_Rarely,Research & Development,3,3,3,Female,1,Laboratory Technician,1,Married,20,4,12,1,0,0,0
+No,42,Travel_Rarely,Sales,12,4,2,Male,2,Sales Executive,4,Divorced,12,3,14,0,0,0,0
+No,27,Travel_Rarely,Research & Development,2,4,1,Female,2,Manufacturing Director,4,Married,18,3,4,3,2,2,2
+No,27,Travel_Rarely,Research & Development,6,4,1,Female,1,Research Scientist,3,Divorced,12,3,6,5,3,0,3
+No,29,Travel_Rarely,Research & Development,1,3,1,Female,1,Research Scientist,4,Divorced,15,3,3,3,2,1,2
+No,33,Travel_Frequently,Sales,25,3,2,Female,2,Sales Executive,3,Married,12,3,10,10,7,0,1
+No,41,Non-Travel,Sales,10,2,4,Male,2,Sales Executive,4,Single,14,3,16,14,3,1,10
+No,32,Travel_Rarely,Research & Development,2,3,3,Female,1,Laboratory Technician,2,Married,13,3,8,8,0,0,7
+No,30,Travel_Frequently,Research & Development,3,3,3,Female,1,Research Scientist,3,Divorced,20,4,1,1,0,0,0
+No,34,Travel_Rarely,Sales,3,2,4,Female,2,Sales Executive,4,Single,12,3,6,2,2,2,2
+No,37,Travel_Rarely,Research & Development,11,3,1,Female,1,Laboratory Technician,3,Single,18,3,8,3,2,0,2
+No,34,Travel_Rarely,Research & Development,1,5,2,Male,1,Research Scientist,4,Married,12,3,10,10,9,8,8
+No,42,Travel_Rarely,Research & Development,7,4,2,Female,2,Research Scientist,2,Married,16,3,18,1,0,0,0
+No,34,Travel_Rarely,Sales,2,3,4,Male,2,Sales Executive,4,Single,22,4,6,6,5,1,4
+No,38,Travel_Rarely,Sales,10,2,1,Female,2,Sales Executive,4,Married,11,3,10,10,7,1,9
+No,31,Non-Travel,Research & Development,10,3,3,Female,3,Research Director,3,Married,20,4,13,11,7,4,8
+No,36,Travel_Rarely,Human Resources,8,3,1,Male,1,Human Resources,1,Married,21,4,6,5,4,0,3
+No,25,Travel_Rarely,Sales,8,3,4,Male,2,Sales Executive,2,Married,22,4,4,3,2,1,2
+No,45,Non-Travel,Research & Development,2,2,1,Male,4,Manager,4,Married,23,4,22,20,8,11,8
+No,47,Travel_Rarely,Sales,2,4,4,Female,1,Sales Representative,4,Single,18,3,3,3,2,1,2
+No,40,Travel_Rarely,Sales,10,4,1,Male,3,Sales Executive,2,Divorced,12,3,11,1,0,0,0
+No,27,Travel_Rarely,Sales,23,1,2,Female,2,Sales Representative,3,Married,21,4,9,9,8,5,8
+No,35,Travel_Rarely,Sales,2,3,4,Female,1,Sales Representative,4,Married,13,3,2,2,2,2,2
+No,34,Travel_Frequently,Research & Development,1,3,4,Male,2,Healthcare Representative,1,Single,20,4,14,13,9,4,9
+No,42,Travel_Rarely,Research & Development,13,3,2,Male,2,Healthcare Representative,1,Married,18,3,10,0,0,0,0
+No,43,Travel_Rarely,Research & Development,11,3,1,Male,3,Healthcare Representative,3,Married,17,3,10,10,9,0,9
+No,23,Travel_Rarely,Research & Development,10,1,1,Male,1,Research Scientist,3,Single,18,3,2,2,2,0,2
+No,27,Travel_Frequently,Sales,2,1,4,Male,2,Sales Executive,4,Single,20,4,8,6,2,0,0
+No,31,Travel_Rarely,Research & Development,1,2,4,Male,1,Laboratory Technician,1,Married,12,3,4,4,2,3,2
+No,37,Travel_Rarely,Research & Development,1,4,2,Female,2,Manufacturing Director,2,Married,12,3,8,6,5,4,3
+No,30,Travel_Frequently,Research & Development,5,4,2,Male,1,Research Scientist,4,Divorced,12,3,10,5,4,0,3
+No,35,Travel_Rarely,Research & Development,23,4,3,Female,1,Laboratory Technician,1,Married,15,3,4,2,2,2,2
+No,48,Travel_Frequently,Research & Development,4,5,3,Male,4,Manager,4,Married,25,4,23,2,2,2,2
+No,24,Non-Travel,Sales,13,2,4,Female,1,Sales Representative,2,Married,13,3,1,1,0,0,0
+No,29,Travel_Rarely,Research & Development,7,3,4,Male,1,Laboratory Technician,1,Single,14,3,11,3,2,1,2
+No,35,Travel_Frequently,Sales,11,2,4,Male,2,Sales Executive,4,Divorced,11,3,5,5,2,0,2
+No,31,Travel_Frequently,Sales,20,3,3,Male,1,Sales Representative,4,Married,12,3,3,2,2,2,2
+No,33,Travel_Rarely,Sales,10,4,2,Male,2,Sales Executive,3,Single,14,3,10,10,4,0,9
+No,53,Travel_Rarely,Research & Development,13,2,4,Female,2,Manufacturing Director,1,Divorced,11,3,5,4,2,1,3
+No,31,Travel_Frequently,Research & Development,24,1,4,Female,2,Manufacturing Director,4,Single,20,4,9,5,4,1,4
+No,27,Travel_Rarely,Sales,11,3,3,Female,1,Sales Representative,4,Married,14,3,5,1,0,0,0
+No,29,Travel_Rarely,Research & Development,2,3,3,Male,1,Research Scientist,2,Married,23,4,6,5,4,0,4
+No,31,Travel_Rarely,Sales,10,2,3,Female,2,Sales Executive,4,Divorced,11,3,8,5,2,1,4
+No,30,Travel_Rarely,Research & Development,7,4,3,Male,2,Laboratory Technician,3,Divorced,13,3,10,10,7,8,9
+No,33,Non-Travel,Sales,2,3,4,Female,2,Sales Executive,2,Single,15,3,13,11,7,1,7
+No,21,Travel_Rarely,Research & Development,5,1,3,Male,1,Research Scientist,4,Single,18,3,3,2,2,2,2
+No,41,Non-Travel,Research & Development,7,1,2,Female,5,Research Director,3,Divorced,22,4,21,21,16,5,10
+No,29,Travel_Rarely,Human Resources,6,1,4,Male,1,Human Resources,2,Married,11,3,1,1,0,0,0
+No,59,Travel_Rarely,Research & Development,3,3,3,Male,1,Research Scientist,4,Married,17,3,7,1,0,0,0
+No,29,Travel_Rarely,Research & Development,1,3,1,Male,2,Healthcare Representative,1,Married,12,3,6,5,3,0,2
+No,35,Travel_Frequently,Research & Development,2,4,1,Male,1,Research Scientist,4,Single,14,3,6,5,4,1,4
+No,37,Non-Travel,Sales,19,2,1,Male,3,Sales Executive,2,Single,13,3,10,10,0,0,9
+No,43,Non-Travel,Research & Development,7,3,4,Male,1,Research Scientist,4,Divorced,14,3,7,5,4,2,2
+No,34,Travel_Frequently,Research & Development,22,4,3,Male,2,Research Scientist,4,Married,15,3,16,15,10,6,11
+No,56,Travel_Rarely,Research & Development,9,3,3,Male,4,Healthcare Representative,4,Married,11,3,30,10,7,1,1
+No,37,Travel_Rarely,Research & Development,21,3,2,Male,1,Research Scientist,1,Married,12,3,8,8,7,1,7
+No,35,Travel_Rarely,Research & Development,7,3,3,Male,3,Manufacturing Director,3,Single,21,4,17,8,5,1,6
+No,42,Travel_Rarely,Research & Development,2,2,4,Male,4,Manager,1,Married,17,3,23,22,6,13,7
+No,31,Travel_Rarely,Research & Development,8,4,3,Female,2,Manufacturing Director,4,Single,23,4,11,11,7,1,8
+No,28,Travel_Rarely,Research & Development,21,3,3,Male,1,Research Scientist,4,Married,11,3,5,5,2,0,2
+No,34,Travel_Rarely,Research & Development,5,2,2,Male,2,Laboratory Technician,4,Married,14,3,15,15,10,4,13
+No,40,Travel_Rarely,Sales,14,2,4,Female,2,Sales Executive,1,Married,15,3,5,5,4,1,2
+No,32,Non-Travel,Research & Development,5,4,2,Male,1,Research Scientist,2,Single,14,3,12,7,7,0,7
+No,31,Travel_Frequently,Research & Development,1,1,3,Female,2,Manufacturing Director,1,Married,12,3,4,4,3,0,3
+No,24,Travel_Rarely,Sales,3,2,1,Female,2,Sales Executive,3,Married,21,4,4,3,2,0,2
+No,56,Travel_Frequently,Sales,6,3,3,Female,4,Sales Executive,1,Married,11,3,36,7,7,7,7
+No,27,Travel_Rarely,Research & Development,2,4,4,Female,1,Laboratory Technician,1,Divorced,13,3,1,1,0,0,0
+No,34,Travel_Frequently,Sales,2,4,3,Female,1,Sales Representative,3,Married,18,3,6,4,3,1,2
+No,20,Travel_Rarely,Sales,2,3,3,Female,1,Sales Representative,3,Single,19,3,2,2,2,2,2
+No,48,Travel_Rarely,Research & Development,15,4,3,Female,1,Research Scientist,1,Married,12,3,10,8,2,7,6
+No,34,Travel_Rarely,Sales,3,3,4,Male,2,Sales Executive,1,Single,18,3,15,13,9,3,12
+No,36,Travel_Frequently,Research & Development,23,2,3,Male,2,Laboratory Technician,4,Married,17,3,17,5,2,0,3
+No,38,Travel_Rarely,Research & Development,6,2,4,Female,1,Laboratory Technician,3,Married,11,3,5,5,4,0,4
+No,44,Travel_Frequently,Human Resources,1,5,1,Male,2,Human Resources,4,Married,11,3,14,10,7,0,2
+No,33,Travel_Rarely,Research & Development,2,3,3,Male,1,Research Scientist,4,Single,14,3,4,3,1,0,2
+No,29,Travel_Frequently,Research & Development,2,1,4,Female,1,Laboratory Technician,2,Married,13,3,4,3,2,0,2
+No,58,Travel_Rarely,Sales,21,3,4,Female,4,Manager,4,Married,13,3,29,1,0,0,0
+No,32,Travel_Rarely,Sales,7,3,4,Male,2,Sales Executive,3,Married,14,3,13,13,8,4,8
+No,36,Travel_Rarely,Research & Development,1,3,3,Female,3,Manufacturing Director,1,Divorced,21,4,17,7,7,7,7
+No,38,Non-Travel,Sales,2,2,4,Male,2,Sales Executive,4,Married,18,3,13,8,7,7,5
+No,40,Travel_Rarely,Research & Development,1,4,1,Male,4,Manager,1,Divorced,11,3,22,19,7,11,16
+No,19,Travel_Rarely,Research & Development,9,2,3,Male,1,Research Scientist,1,Single,25,4,1,1,1,0,0
+No,50,Travel_Frequently,Research & Development,20,5,2,Male,4,Healthcare Representative,3,Married,15,3,32,30,8,12,13
+No,39,Non-Travel,Research & Development,1,3,4,Male,2,Laboratory Technician,4,Married,15,3,9,9,8,5,8
+No,39,Travel_Rarely,Sales,24,1,2,Female,4,Sales Executive,4,Married,11,3,21,20,9,9,6
+No,32,Travel_Rarely,Research & Development,1,1,4,Male,1,Research Scientist,1,Single,13,3,1,1,0,0,0
+No,30,Travel_Rarely,Sales,8,2,3,Male,3,Sales Executive,3,Divorced,11,3,10,8,4,7,7
+No,43,Travel_Rarely,Research & Development,8,4,3,Female,2,Healthcare Representative,3,Divorced,14,3,8,5,2,0,2
+No,54,Travel_Rarely,Research & Development,10,3,3,Female,2,Manufacturing Director,1,Single,19,3,9,5,2,1,4
+No,25,Travel_Rarely,Research & Development,1,3,4,Female,1,Research Scientist,2,Single,18,3,2,2,2,2,1
+No,43,Travel_Frequently,Research & Development,28,3,2,Female,1,Research Scientist,3,Single,12,3,18,3,2,1,2
+No,30,Travel_Rarely,Sales,7,1,4,Male,1,Sales Representative,2,Single,14,3,4,3,2,1,2
+No,40,Travel_Rarely,Research & Development,15,3,1,Female,3,Manufacturing Director,3,Married,13,3,18,18,15,14,12
+No,48,Travel_Rarely,Research & Development,6,3,1,Male,2,Healthcare Representative,3,Single,13,3,19,2,2,2,2
+No,38,Travel_Rarely,Sales,16,3,2,Female,2,Sales Executive,2,Single,12,3,8,3,2,1,2
+No,35,Travel_Rarely,Research & Development,10,4,1,Female,2,Healthcare Representative,3,Single,16,3,10,5,2,0,4
+No,35,Travel_Rarely,Sales,1,5,3,Male,3,Sales Executive,2,Married,13,3,10,10,8,0,6
+No,47,Travel_Rarely,Sales,14,3,3,Female,2,Sales Executive,3,Married,17,3,11,5,4,1,2
+No,42,Travel_Rarely,Research & Development,23,5,1,Female,4,Research Director,4,Single,14,3,16,1,0,0,0
+No,35,Travel_Rarely,Research & Development,27,4,4,Male,2,Manufacturing Director,3,Married,16,3,17,7,7,0,7
+No,34,Travel_Frequently,Research & Development,3,1,1,Male,2,Healthcare Representative,4,Single,17,3,7,6,2,0,4
+No,30,Travel_Rarely,Sales,29,4,3,Male,3,Sales Executive,2,Married,12,3,9,4,2,1,3
+No,31,Non-Travel,Research & Development,5,3,2,Male,2,Manufacturing Director,1,Single,19,3,10,9,4,1,7
+No,42,Travel_Rarely,Research & Development,18,4,4,Male,2,Research Scientist,1,Divorced,17,3,9,4,3,1,2
+No,40,Travel_Rarely,Research & Development,2,4,3,Female,1,Research Scientist,3,Married,14,3,20,5,3,0,2
+No,51,Travel_Rarely,Research & Development,9,4,4,Male,1,Laboratory Technician,4,Married,23,4,10,4,2,0,3
+No,34,Travel_Rarely,Sales,21,4,4,Male,2,Sales Executive,4,Single,12,3,10,10,7,5,7
+No,38,Travel_Rarely,Research & Development,4,2,4,Female,1,Laboratory Technician,3,Married,19,3,7,0,0,0,0
+No,37,Travel_Rarely,Research & Development,1,4,1,Male,2,Manufacturing Director,3,Divorced,18,3,7,7,5,0,7
+No,32,Travel_Rarely,Research & Development,5,2,4,Female,2,Research Scientist,2,Married,12,3,12,7,1,2,5
+No,37,Travel_Rarely,Research & Development,5,2,4,Male,2,Manufacturing Director,4,Divorced,16,3,8,6,2,0,4
+No,31,Travel_Frequently,Sales,7,4,1,Female,3,Sales Executive,1,Married,14,3,9,3,2,2,2
+No,36,Travel_Frequently,Sales,11,2,2,Female,3,Sales Executive,4,Married,14,3,10,9,7,2,8
+No,36,Travel_Rarely,Research & Development,7,4,2,Male,1,Research Scientist,4,Single,18,3,8,6,2,0,1
+No,32,Travel_Rarely,Sales,10,3,4,Male,2,Sales Executive,4,Single,12,3,10,10,7,0,8
+No,46,Travel_Rarely,Sales,3,3,1,Female,4,Sales Executive,1,Divorced,12,3,25,19,17,2,8
+No,35,Travel_Rarely,Sales,1,3,1,Female,2,Sales Executive,3,Single,16,3,5,5,4,0,3
+No,29,Travel_Rarely,Research & Development,13,2,4,Male,2,Laboratory Technician,2,Married,13,3,10,4,3,0,3
+No,45,Travel_Rarely,Sales,4,2,3,Female,2,Sales Executive,1,Divorced,11,3,9,5,4,0,3
+No,47,Travel_Rarely,Human Resources,26,4,4,Female,5,Manager,3,Married,11,3,27,5,2,1,0
+No,33,Travel_Frequently,Sales,5,1,2,Male,2,Sales Executive,4,Married,13,3,8,5,4,1,2
+No,18,Non-Travel,Research & Development,5,2,2,Male,1,Research Scientist,4,Single,15,3,0,0,0,0,0
+No,45,Non-Travel,Sales,2,4,3,Female,2,Sales Executive,3,Married,22,4,10,8,7,5,7
+No,36,Travel_Rarely,Sales,1,4,2,Female,2,Sales Executive,3,Single,13,3,15,1,0,0,0
+No,43,Travel_Frequently,Research & Development,10,4,3,Female,2,Laboratory Technician,3,Divorced,11,3,9,9,7,0,0
+No,30,Travel_Rarely,Sales,27,5,3,Male,2,Sales Executive,4,Divorced,23,4,10,8,7,7,7
+No,48,Non-Travel,Research & Development,1,4,1,Male,4,Manager,4,Single,22,4,27,5,4,2,1
+No,38,Travel_Frequently,Research & Development,6,4,1,Male,2,Manufacturing Director,3,Married,11,3,10,8,3,7,7
+No,30,Travel_Rarely,Research & Development,2,3,3,Female,2,Manufacturing Director,4,Single,24,4,12,0,0,0,0
+No,32,Travel_Rarely,Sales,1,4,2,Male,1,Sales Representative,2,Married,14,3,3,2,2,2,2
+No,37,Travel_Rarely,Research & Development,3,3,3,Male,3,Manufacturing Director,3,Married,15,3,10,10,7,7,8
+No,50,Travel_Rarely,Sales,9,3,3,Male,5,Manager,3,Married,16,3,27,1,0,0,0
+No,26,Travel_Frequently,Research & Development,11,2,1,Male,2,Healthcare Representative,1,Married,13,3,5,5,3,3,3
+No,38,Travel_Frequently,Research & Development,10,1,3,Male,1,Research Scientist,3,Married,17,3,3,2,1,0,2
+No,46,Travel_Rarely,Sales,2,3,3,Female,4,Manager,2,Married,12,3,28,7,7,7,7
+No,44,Non-Travel,Research & Development,24,3,1,Male,1,Laboratory Technician,3,Single,14,3,9,5,2,1,4
+No,42,Travel_Rarely,Sales,14,2,3,Female,2,Sales Executive,3,Single,17,3,10,5,4,0,3
+No,42,Travel_Rarely,Research & Development,29,3,2,Male,2,Manufacturing Director,2,Married,13,3,10,9,8,7,8
+No,29,Travel_Rarely,Research & Development,6,1,2,Female,1,Laboratory Technician,4,Married,13,3,10,10,8,0,8
+No,49,Travel_Rarely,Research & Development,6,1,3,Female,4,Healthcare Representative,3,Married,19,3,30,15,11,2,12
+No,38,Travel_Frequently,Research & Development,12,3,1,Male,2,Healthcare Representative,1,Divorced,15,3,13,4,3,1,2
+No,26,Travel_Rarely,Research & Development,1,2,2,Female,1,Research Scientist,3,Married,13,3,1,1,0,1,0
+No,28,Travel_Rarely,Research & Development,15,2,1,Male,1,Laboratory Technician,3,Divorced,16,3,4,4,2,2,2
+No,33,Travel_Rarely,Research & Development,21,3,2,Male,1,Laboratory Technician,2,Married,18,3,14,14,11,2,13
+No,33,Non-Travel,Sales,8,1,2,Female,1,Sales Representative,4,Single,19,3,3,2,2,2,2
+No,56,Non-Travel,Research & Development,1,4,3,Male,2,Healthcare Representative,3,Divorced,21,4,13,13,12,1,9
+No,28,Travel_Rarely,Sales,26,3,3,Male,2,Sales Executive,1,Married,11,3,5,5,3,0,4
+No,26,Travel_Rarely,Sales,23,3,3,Female,2,Sales Executive,4,Married,19,3,5,2,2,0,0
+No,56,Travel_Rarely,Research & Development,1,2,1,Female,1,Research Scientist,1,Married,22,4,5,3,2,1,0
+No,26,Travel_Rarely,Sales,5,3,4,Female,1,Sales Representative,3,Single,18,3,5,4,2,0,0
+No,18,Travel_Rarely,Sales,10,3,4,Female,1,Sales Representative,3,Single,12,3,0,0,0,0,0
+No,32,Travel_Frequently,Research & Development,7,3,2,Male,1,Laboratory Technician,2,Married,20,4,5,5,1,0,3
+No,57,Travel_Rarely,Sales,29,3,1,Male,4,Manager,4,Divorced,12,3,32,1,0,0,0
+No,34,Travel_Rarely,Sales,8,2,2,Male,2,Sales Executive,3,Married,21,4,10,10,8,4,8
+No,30,Travel_Rarely,Research & Development,1,3,4,Male,1,Research Scientist,2,Married,21,4,12,11,9,5,7
+No,33,Travel_Rarely,Research & Development,1,4,3,Male,1,Research Scientist,1,Single,11,3,6,3,2,0,2
+No,36,Travel_Rarely,Sales,11,4,2,Female,2,Sales Executive,4,Married,13,3,8,6,3,0,0
+No,40,Travel_Rarely,Sales,7,4,2,Male,5,Manager,2,Single,14,3,21,21,8,12,8
+No,35,Travel_Rarely,Research & Development,9,4,3,Male,2,Healthcare Representative,2,Single,19,3,10,1,1,0,0
+No,31,Travel_Rarely,Sales,7,3,4,Male,2,Sales Executive,4,Divorced,12,3,13,7,7,1,7
+No,46,Travel_Rarely,Research & Development,7,2,4,Male,3,Manufacturing Director,3,Divorced,13,3,13,8,7,0,7
+No,29,Travel_Frequently,Sales,2,2,2,Male,2,Sales Executive,4,Single,18,3,10,10,7,0,9
+No,30,Travel_Rarely,Research & Development,18,3,1,Female,1,Research Scientist,3,Single,14,3,5,5,4,0,4
+No,30,Travel_Rarely,Human Resources,1,3,3,Male,1,Human Resources,3,Divorced,21,4,6,5,3,1,3
+No,36,Travel_Frequently,Research & Development,18,1,2,Female,1,Laboratory Technician,4,Single,13,3,8,8,1,1,7
+No,36,Travel_Rarely,Sales,2,4,3,Female,2,Sales Representative,4,Single,15,3,17,13,7,6,7
+No,37,Non-Travel,Research & Development,1,4,1,Female,3,Research Director,4,Divorced,18,3,15,5,2,0,2
+No,29,Travel_Rarely,Research & Development,7,3,3,Male,2,Healthcare Representative,4,Divorced,11,3,6,6,0,1,0
+No,40,Travel_Frequently,Research & Development,2,2,3,Female,2,Healthcare Representative,2,Married,24,4,8,8,7,3,7
+No,47,Travel_Rarely,Research & Development,2,2,1,Female,2,Manufacturing Director,4,Divorced,13,3,20,5,0,0,4
+No,36,Travel_Rarely,Research & Development,2,4,3,Male,1,Laboratory Technician,3,Single,21,4,16,11,8,3,9
+No,34,Travel_Rarely,Sales,2,3,3,Female,2,Sales Executive,1,Single,12,3,4,3,2,0,2
+No,28,Travel_Rarely,Sales,10,1,4,Male,1,Sales Representative,2,Married,22,4,1,1,0,0,0
+No,43,Travel_Rarely,Sales,16,3,4,Female,4,Manager,4,Married,22,4,22,17,13,1,9
+No,44,Travel_Rarely,Research & Development,9,2,2,Male,1,Research Scientist,1,Married,13,3,8,8,7,7,1
+No,31,Travel_Rarely,Research & Development,7,4,3,Female,3,Manufacturing Director,4,Single,14,3,11,11,9,4,10
+No,34,Travel_Frequently,Human Resources,11,3,3,Male,2,Human Resources,2,Married,11,3,14,10,9,1,8
+No,32,Travel_Rarely,Research & Development,3,4,3,Female,2,Manufacturing Director,1,Married,12,3,8,8,7,6,3
+No,32,Travel_Rarely,Research & Development,2,3,4,Male,2,Research Scientist,2,Divorced,13,3,10,9,5,1,6
+No,43,Travel_Frequently,Research & Development,27,3,3,Female,3,Manufacturing Director,1,Married,11,3,18,8,7,0,1
+No,27,Travel_Rarely,Research & Development,8,3,3,Female,1,Research Scientist,4,Single,11,3,6,6,2,1,4
+No,55,Travel_Rarely,Research & Development,8,3,4,Female,4,Manager,3,Divorced,14,3,21,5,0,0,2
+No,29,Travel_Rarely,Sales,2,3,1,Male,2,Sales Executive,2,Married,19,3,10,0,0,0,0
+No,49,Non-Travel,Research & Development,18,4,4,Male,2,Manufacturing Director,4,Divorced,15,3,7,7,7,1,7
+No,59,Travel_Rarely,Human Resources,6,2,2,Male,1,Human Resources,3,Married,17,3,7,2,2,2,2
+No,40,Travel_Rarely,Sales,2,2,2,Female,2,Sales Executive,2,Married,14,3,15,11,8,5,10
+No,36,Non-Travel,Sales,8,4,1,Male,2,Sales Executive,4,Divorced,13,3,12,7,7,0,7
+No,22,Travel_Rarely,Research & Development,2,1,3,Male,1,Laboratory Technician,4,Married,14,3,3,2,1,2,1
+No,43,Travel_Frequently,Research & Development,21,3,4,Male,1,Laboratory Technician,4,Married,20,4,8,3,2,1,2
+No,58,Travel_Frequently,Research & Development,15,4,1,Male,4,Research Director,3,Married,14,3,23,2,2,2,2
+No,23,Travel_Rarely,Sales,2,1,3,Male,1,Sales Representative,1,Divorced,13,3,3,0,0,0,0
+No,30,Travel_Rarely,Research & Development,1,2,4,Male,1,Laboratory Technician,2,Married,13,3,12,12,8,1,7
+No,35,Travel_Rarely,Sales,18,3,3,Female,2,Sales Executive,3,Married,16,3,5,5,2,1,0
+No,46,Travel_Rarely,Sales,2,4,2,Female,5,Manager,1,Single,12,3,22,2,2,2,1
+No,40,Travel_Frequently,Research & Development,26,2,3,Female,2,Research Scientist,4,Married,13,3,16,1,1,0,0
+No,29,Travel_Frequently,Research & Development,10,3,4,Female,1,Research Scientist,2,Divorced,14,3,8,7,5,1,1
+No,55,Travel_Rarely,Human Resources,26,4,3,Male,5,Manager,2,Married,18,3,35,10,9,1,4
+No,32,Travel_Rarely,Sales,8,2,3,Female,2,Sales Executive,2,Married,11,3,13,13,12,11,9
+No,33,Travel_Frequently,Research & Development,5,4,4,Female,3,Manager,2,Married,11,3,12,10,6,8,8
+No,36,Travel_Rarely,Research & Development,5,4,2,Female,1,Research Scientist,1,Married,14,3,6,1,1,0,0
+No,33,Travel_Frequently,Sales,7,3,4,Female,2,Sales Executive,2,Married,17,3,4,3,2,0,2
+No,44,Travel_Rarely,Human Resources,1,4,1,Female,2,Human Resources,3,Single,11,3,10,2,2,0,2
+No,40,Non-Travel,Research & Development,9,4,3,Male,2,Laboratory Technician,3,Divorced,11,3,11,8,7,0,7
+No,38,Travel_Rarely,Research & Development,1,1,3,Female,1,Research Scientist,1,Single,17,3,8,0,0,0,0
+No,55,Travel_Rarely,Research & Development,1,3,4,Male,5,Manager,1,Single,14,3,37,36,10,4,13
+No,37,Travel_Frequently,Research & Development,9,3,2,Male,1,Research Scientist,4,Married,12,3,4,4,2,1,2
+No,34,Travel_Rarely,Sales,1,3,4,Male,3,Sales Executive,3,Married,14,3,10,10,9,8,6
+No,31,Travel_Frequently,Research & Development,1,3,4,Male,2,Research Scientist,1,Married,21,4,10,10,8,8,7
+No,43,Travel_Frequently,Research & Development,9,5,4,Male,2,Laboratory Technician,3,Divorced,13,3,10,8,7,4,7
+No,42,Travel_Rarely,Research & Development,24,3,4,Male,3,Manufacturing Director,1,Married,21,4,10,10,9,5,8
+No,22,Travel_Rarely,Research & Development,15,3,2,Female,1,Laboratory Technician,4,Single,15,3,1,0,0,0,0
+No,34,Travel_Rarely,Research & Development,7,4,1,Male,1,Research Scientist,4,Single,13,3,1,1,0,0,0
+No,42,Travel_Rarely,Human Resources,2,1,3,Male,1,Human Resources,3,Divorced,11,3,4,3,2,1,0
+No,34,Travel_Frequently,Research & Development,15,3,2,Male,4,Research Director,1,Divorced,14,3,16,14,8,6,9
+No,37,Travel_Frequently,Sales,21,2,3,Female,1,Sales Representative,4,Married,15,3,10,5,4,0,0
+No,34,Travel_Rarely,Research & Development,8,3,2,Male,2,Laboratory Technician,3,Married,12,3,6,4,3,1,2
+No,46,Non-Travel,Research & Development,7,4,3,Female,2,Manufacturing Director,3,Married,14,3,7,1,0,0,0
+No,38,Non-Travel,Sales,10,3,3,Female,2,Sales Executive,4,Single,13,3,6,5,3,1,3
+No,33,Non-Travel,Sales,17,3,4,Male,4,Manager,3,Single,11,3,10,10,8,6,0
+No,28,Travel_Rarely,Research & Development,29,1,3,Male,2,Manufacturing Director,2,Married,14,3,8,8,6,1,7
+No,30,Travel_Rarely,Research & Development,6,3,1,Female,2,Laboratory Technician,4,Married,12,3,10,9,2,6,7
+No,49,Travel_Frequently,Research & Development,10,4,3,Female,5,Research Director,1,Single,11,3,22,3,2,1,2
+No,34,Travel_Rarely,Research & Development,1,4,2,Male,2,Research Scientist,4,Married,17,3,9,2,2,2,1
+No,34,Travel_Rarely,Research & Development,20,3,3,Female,1,Research Scientist,3,Married,17,3,2,1,0,0,0
+No,32,Travel_Rarely,Research & Development,3,2,3,Female,3,Research Director,4,Single,15,3,10,7,7,7,7
+No,49,Travel_Rarely,Research & Development,1,2,3,Female,4,Healthcare Representative,3,Single,12,3,25,7,1,0,7
+No,60,Travel_Rarely,Research & Development,1,4,3,Male,3,Healthcare Representative,4,Divorced,20,4,19,1,0,0,0
+No,33,Travel_Rarely,Research & Development,7,3,3,Male,3,Research Director,3,Married,11,3,14,13,9,3,7
+No,41,Travel_Rarely,Sales,6,3,4,Female,3,Manager,4,Single,18,3,16,1,0,0,0
+No,35,Travel_Frequently,Research & Development,2,3,2,Female,2,Laboratory Technician,2,Single,11,3,10,6,2,1,2
+No,34,Travel_Rarely,Research & Development,5,3,3,Female,3,Manager,1,Single,12,3,14,11,10,5,8
+No,29,Travel_Rarely,Research & Development,27,3,2,Female,2,Healthcare Representative,3,Married,12,3,11,8,7,1,1
+No,42,Travel_Rarely,Research & Development,1,4,2,Female,1,Laboratory Technician,1,Divorced,16,3,8,5,2,1,2
+No,32,Travel_Rarely,Research & Development,9,4,1,Female,2,Research Scientist,4,Married,12,3,6,6,4,0,5
+No,28,Travel_Rarely,Research & Development,27,3,2,Female,2,Manufacturing Director,1,Divorced,21,4,6,5,3,0,0
+No,31,Non-Travel,Research & Development,3,2,3,Male,1,Research Scientist,1,Divorced,13,3,4,4,2,2,3
+No,29,Travel_Frequently,Sales,1,1,2,Female,3,Sales Executive,4,Married,14,3,11,11,10,4,1
+No,45,Travel_Rarely,Sales,11,2,4,Female,4,Manager,4,Married,13,3,26,9,3,1,1
+No,35,Travel_Frequently,Research & Development,4,4,4,Male,1,Laboratory Technician,4,Married,13,3,2,2,2,2,2
+No,52,Travel_Rarely,Research & Development,6,2,4,Male,2,Research Scientist,1,Divorced,12,3,18,10,9,6,9
+No,40,Travel_Rarely,Research & Development,6,3,2,Female,4,Manufacturing Director,3,Single,15,3,22,20,6,5,13
+No,40,Travel_Rarely,Research & Development,16,3,3,Female,3,Manufacturing Director,4,Single,15,3,18,4,2,3,3
+No,51,Travel_Rarely,Research & Development,1,3,3,Male,1,Research Scientist,4,Married,11,3,1,1,0,0,0
+No,41,Travel_Frequently,Sales,1,3,3,Female,2,Sales Executive,1,Divorced,17,3,10,9,3,1,7
+No,43,Travel_Frequently,Sales,2,4,1,Male,2,Sales Executive,4,Married,20,4,7,7,7,7,7
+No,47,Travel_Rarely,Sales,2,4,2,Female,4,Manager,2,Divorced,14,3,29,3,2,1,2
+No,30,Travel_Rarely,Research & Development,16,1,2,Male,1,Research Scientist,4,Married,12,3,10,10,0,0,8
+No,40,Travel_Rarely,Sales,2,4,3,Female,5,Manager,3,Married,14,3,21,20,15,1,12
+No,31,Travel_Rarely,Research & Development,12,1,3,Female,1,Research Scientist,4,Married,23,4,7,4,2,0,2
+No,37,Travel_Rarely,Research & Development,10,4,3,Male,2,Manufacturing Director,2,Single,12,3,18,1,0,0,1
+No,30,Travel_Rarely,Research & Development,10,3,1,Female,3,Manufacturing Director,3,Single,14,3,9,7,7,0,2
+No,43,Travel_Rarely,Research & Development,6,4,2,Male,4,Research Director,4,Divorced,14,3,21,1,0,0,0
+No,51,Travel_Rarely,Research & Development,6,3,1,Male,5,Research Director,3,Single,13,3,23,20,18,15,15
+No,31,Travel_Rarely,Research & Development,2,4,3,Male,1,Research Scientist,4,Divorced,18,3,3,2,2,2,2
+No,33,Travel_Frequently,Research & Development,7,2,4,Male,2,Healthcare Representative,3,Divorced,20,4,9,9,7,2,8
+No,26,Travel_Frequently,Research & Development,1,1,1,Female,1,Research Scientist,3,Divorced,13,3,5,5,3,1,3
+No,45,Travel_Rarely,Research & Development,2,3,2,Female,1,Research Scientist,3,Single,14,3,1,1,0,0,0
+No,37,Travel_Rarely,Sales,6,4,3,Male,2,Sales Executive,4,Married,14,3,7,5,4,0,1
+No,27,Travel_Rarely,Research & Development,14,3,1,Male,1,Research Scientist,1,Married,14,3,9,9,7,6,8
+No,36,Travel_Rarely,Research & Development,5,2,4,Male,2,Laboratory Technician,2,Single,16,3,16,13,11,3,7
+No,54,Travel_Rarely,Research & Development,8,4,3,Female,2,Laboratory Technician,3,Single,11,3,19,1,0,0,0
+No,35,Travel_Rarely,Research & Development,18,5,2,Male,2,Research Scientist,1,Married,11,3,16,16,15,1,10
+Yes,50,Travel_Rarely,Sales,3,2,1,Male,1,Sales Representative,3,Married,14,3,3,3,2,0,2
+Yes,51,Travel_Frequently,Research & Development,8,4,1,Male,3,Manufacturing Director,4,Single,15,3,18,4,2,0,3
+Yes,31,Travel_Frequently,Research & Development,20,3,1,Male,3,Healthcare Representative,3,Married,12,3,12,1,0,0,0
+Yes,22,Travel_Rarely,Research & Development,3,1,2,Female,2,Manufacturing Director,3,Married,19,3,4,3,2,0,2
+Yes,55,Travel_Rarely,Research & Development,2,3,4,Male,5,Manager,1,Married,13,3,24,5,2,1,4
+Yes,20,Travel_Rarely,Research & Development,10,1,4,Male,1,Research Scientist,3,Single,11,3,1,1,0,1,1
+Yes,34,Travel_Rarely,Human Resources,9,4,1,Female,1,Human Resources,3,Married,15,3,2,2,2,2,2
+Yes,18,Non-Travel,Research & Development,8,1,3,Male,1,Laboratory Technician,3,Single,12,3,0,0,0,0,0
+Yes,49,Travel_Rarely,Sales,11,3,3,Female,3,Sales Executive,4,Married,18,3,9,9,8,7,7
+Yes,24,Travel_Frequently,Research & Development,9,3,2,Male,1,Laboratory Technician,1,Single,11,3,4,0,0,0,0
+Yes,29,Travel_Rarely,Sales,1,3,2,Female,1,Sales Representative,3,Divorced,19,3,5,3,2,0,2
+Yes,33,Travel_Rarely,Sales,5,3,4,Female,1,Sales Representative,3,Single,13,3,1,1,0,0,0
+Yes,33,Travel_Rarely,Research & Development,10,1,1,Male,1,Laboratory Technician,4,Divorced,13,3,8,4,3,1,3
+Yes,28,Travel_Rarely,Sales,13,2,4,Female,2,Sales Executive,3,Single,11,3,6,2,0,2,2
+Yes,46,Travel_Rarely,Sales,9,2,3,Male,3,Sales Executive,4,Single,16,3,9,9,8,4,7
+Yes,30,Travel_Frequently,Sales,26,4,3,Female,2,Sales Executive,1,Single,15,3,9,6,3,0,1
+Yes,51,Travel_Frequently,Research & Development,8,4,1,Male,3,Manufacturing Director,4,Single,15,3,18,4,2,0,3
+Yes,28,Travel_Rarely,Research & Development,12,1,3,Female,1,Laboratory Technician,4,Married,11,3,1,1,1,0,0
+Yes,27,Travel_Frequently,Human Resources,22,3,1,Female,1,Human Resources,2,Married,12,3,1,1,0,0,0
+Yes,19,Travel_Rarely,Sales,21,3,4,Male,1,Sales Representative,2,Single,13,3,1,1,0,0,0
+Yes,25,Travel_Rarely,Research & Development,3,3,1,Male,1,Laboratory Technician,1,Married,13,3,6,2,2,0,2
+Yes,26,Travel_Frequently,Research & Development,3,1,3,Male,1,Research Scientist,1,Single,22,4,7,6,4,0,4
+Yes,43,Travel_Rarely,Sales,9,3,1,Female,2,Sales Executive,3,Single,13,3,7,4,3,1,3
+Yes,39,Travel_Frequently,Research & Development,2,3,1,Male,4,Healthcare Representative,4,Divorced,11,3,21,18,7,11,5
+Yes,28,Travel_Rarely,Research & Development,2,4,3,Male,1,Research Scientist,3,Single,17,3,5,2,2,2,1
+Yes,47,Travel_Frequently,Sales,27,2,2,Female,2,Sales Executive,3,Single,12,3,8,5,4,1,3
+Yes,35,Travel_Rarely,Sales,4,3,4,Male,3,Sales Executive,1,Single,22,4,9,8,7,4,7
+Yes,32,Travel_Rarely,Research & Development,7,2,4,Male,2,Laboratory Technician,3,Married,18,3,10,10,4,1,1
+Yes,20,Travel_Rarely,Research & Development,4,3,1,Male,1,Laboratory Technician,1,Single,19,3,1,1,0,0,0
+Yes,25,Travel_Rarely,Research & Development,4,1,4,Male,1,Laboratory Technician,4,Married,15,3,7,7,7,5,6
+Yes,31,Travel_Frequently,Sales,1,3,4,Female,1,Sales Representative,2,Single,11,3,3,3,2,2,2
+Yes,44,Travel_Rarely,Human Resources,1,2,2,Male,3,Human Resources,1,Married,14,3,24,20,6,3,6
+Yes,29,Travel_Rarely,Sales,23,1,4,Female,3,Sales Executive,1,Married,13,3,11,11,8,3,10
+Yes,35,Travel_Rarely,Sales,27,3,3,Male,2,Sales Executive,4,Single,18,3,10,10,7,7,7
+Yes,58,Travel_Frequently,Research & Development,2,1,4,Male,1,Laboratory Technician,4,Divorced,14,3,3,1,0,0,0
+Yes,34,Travel_Rarely,Research & Development,6,1,2,Male,1,Research Scientist,1,Single,11,3,8,4,2,1,3
+Yes,33,Travel_Rarely,Sales,16,3,1,Female,2,Sales Executive,1,Single,15,3,6,3,2,0,2
+Yes,53,Travel_Rarely,Research & Development,2,5,3,Female,3,Manufacturing Director,4,Married,16,3,34,33,7,1,9
+Yes,31,Travel_Frequently,Research & Development,20,3,1,Male,3,Healthcare Representative,3,Married,12,3,12,1,0,0,0
+Yes,28,Travel_Frequently,Research & Development,1,3,1,Male,1,Laboratory Technician,2,Divorced,15,3,1,1,0,0,0
+Yes,28,Travel_Rarely,Research & Development,2,4,1,Male,1,Research Scientist,4,Married,13,3,5,3,2,2,2
+Yes,31,Travel_Frequently,Research & Development,2,3,2,Male,1,Laboratory Technician,4,Married,13,3,7,2,2,2,2
+Yes,40,Travel_Rarely,Research & Development,7,3,1,Male,1,Laboratory Technician,1,Single,14,3,10,4,2,0,3
+Yes,24,Travel_Rarely,Sales,1,1,1,Female,1,Sales Representative,2,Single,16,3,6,5,3,1,4
+Yes,46,Travel_Rarely,Sales,9,2,3,Male,3,Sales Executive,4,Single,16,3,9,9,8,4,7
+Yes,40,Travel_Rarely,Research & Development,9,4,4,Male,1,Laboratory Technician,1,Single,14,3,15,5,4,1,0
+Yes,24,Travel_Rarely,Human Resources,22,1,4,Male,1,Human Resources,3,Married,11,3,1,1,0,0,0
+Yes,33,Travel_Frequently,Research & Development,3,3,1,Male,1,Research Scientist,1,Single,11,3,10,10,8,9,7
+Yes,28,Travel_Rarely,Research & Development,24,3,3,Male,1,Laboratory Technician,3,Single,14,3,6,4,2,0,3
+Yes,52,Travel_Rarely,Sales,2,1,1,Female,5,Manager,4,Married,15,3,33,32,14,6,9
+Yes,39,Travel_Rarely,Research & Development,6,3,4,Male,1,Laboratory Technician,1,Married,21,4,8,2,2,2,2
+Yes,22,Travel_Rarely,Research & Development,7,1,4,Male,1,Research Scientist,2,Single,23,4,1,1,0,0,0
+Yes,41,Non-Travel,Research & Development,5,2,1,Male,1,Research Scientist,1,Divorced,17,3,5,1,0,0,0
+Yes,28,Travel_Rarely,Sales,13,2,4,Female,2,Sales Executive,3,Single,11,3,6,2,0,2,2
+Yes,29,Travel_Rarely,Research & Development,25,5,3,Female,1,Research Scientist,2,Married,16,3,6,2,2,1,1
+Yes,28,Travel_Frequently,Research & Development,2,2,3,Male,1,Laboratory Technician,1,Single,11,3,8,0,0,0,0
+Yes,19,Travel_Rarely,Research & Development,2,3,2,Male,1,Laboratory Technician,4,Single,22,4,1,1,0,1,0
+Yes,21,Travel_Rarely,Sales,12,3,3,Female,1,Sales Representative,2,Single,15,3,1,1,0,0,0
+Yes,31,Non-Travel,Research & Development,9,2,3,Male,1,Research Scientist,1,Single,22,4,4,3,2,1,2
+Yes,52,Travel_Rarely,Sales,5,3,2,Male,3,Sales Executive,2,Single,19,3,10,8,7,7,7
+Yes,34,Travel_Rarely,Human Resources,9,4,1,Female,1,Human Resources,3,Married,15,3,2,2,2,2,2
+Yes,18,Travel_Rarely,Research & Development,3,3,3,Male,1,Laboratory Technician,3,Single,13,3,0,0,0,0,0
+Yes,49,Travel_Frequently,Research & Development,28,2,1,Male,2,Laboratory Technician,1,Single,20,4,20,4,3,1,3
+Yes,36,Travel_Rarely,Sales,3,1,3,Male,3,Sales Executive,4,Married,11,3,16,16,7,3,7
+Yes,33,Travel_Rarely,Research & Development,2,2,1,Female,1,Laboratory Technician,1,Married,20,4,13,9,7,1,7
+Yes,46,Travel_Rarely,Sales,9,3,1,Male,3,Sales Executive,4,Divorced,11,3,28,7,7,4,3
+Yes,34,Travel_Frequently,Research & Development,7,3,1,Male,2,Laboratory Technician,3,Single,24,4,9,9,7,0,6
+Yes,35,Travel_Rarely,Sales,15,2,1,Male,2,Sales Executive,4,Divorced,14,3,7,2,2,2,2
+Yes,31,Travel_Frequently,Research & Development,3,3,4,Female,1,Research Scientist,3,Single,12,3,7,7,2,7,7
+Yes,55,Travel_Rarely,Sales,13,4,1,Male,4,Sales Executive,3,Single,17,3,24,19,7,3,8
+Yes,28,Travel_Frequently,Research & Development,2,2,3,Male,1,Laboratory Technician,1,Single,11,3,8,0,0,0,0
+Yes,32,Travel_Rarely,Sales,1,2,1,Male,2,Sales Executive,2,Single,15,3,10,0,0,0,0
+Yes,25,Travel_Rarely,Sales,5,3,3,Male,2,Sales Executive,3,Single,11,3,6,6,4,0,3
+Yes,26,Travel_Rarely,Research & Development,24,3,3,Male,1,Laboratory Technician,4,Single,18,3,1,1,0,0,0
+Yes,36,Travel_Rarely,Research & Development,9,3,4,Male,1,Research Scientist,3,Married,17,3,2,1,0,0,0
+Yes,25,Travel_Rarely,Sales,19,2,3,Male,1,Sales Representative,2,Married,18,3,1,1,0,0,0
+Yes,38,Travel_Rarely,Research & Development,29,1,2,Male,2,Healthcare Representative,1,Married,19,3,17,1,0,0,0
+Yes,25,Travel_Rarely,Sales,5,3,3,Male,2,Sales Executive,3,Single,11,3,6,6,4,0,3
+Yes,33,Travel_Rarely,Sales,5,3,4,Female,1,Sales Representative,3,Single,13,3,1,1,0,0,0
+Yes,34,Travel_Frequently,Human Resources,23,3,2,Female,3,Human Resources,1,Divorced,15,3,11,3,2,0,2
+Yes,29,Travel_Frequently,Sales,13,3,1,Female,2,Sales Executive,2,Single,11,3,7,5,3,0,0
+Yes,23,Travel_Frequently,Sales,9,3,4,Male,1,Sales Representative,1,Married,19,3,1,1,0,1,0
+Yes,33,Travel_Rarely,Sales,16,3,1,Female,2,Sales Executive,1,Single,15,3,6,3,2,0,2
+Yes,29,Travel_Frequently,Research & Development,24,2,4,Male,1,Research Scientist,4,Single,24,4,1,1,0,1,0
+Yes,35,Travel_Rarely,Sales,27,3,3,Male,2,Sales Executive,4,Single,18,3,10,10,7,7,7
+Yes,28,Travel_Frequently,Research & Development,2,2,3,Male,1,Laboratory Technician,1,Single,11,3,8,0,0,0,0
+Yes,45,Travel_Frequently,Sales,26,4,1,Female,2,Sales Executive,1,Married,14,3,5,1,1,0,0
+Yes,41,Travel_Rarely,Sales,1,2,2,Female,2,Sales Executive,4,Single,11,3,8,6,4,0,5
+Yes,36,Travel_Rarely,Research & Development,9,3,4,Male,1,Research Scientist,3,Married,17,3,2,1,0,0,0
+Yes,30,Travel_Rarely,Sales,1,3,2,Male,2,Sales Executive,1,Married,11,3,10,10,8,6,7
+Yes,29,Travel_Rarely,Sales,9,3,2,Female,1,Sales Representative,2,Single,13,3,2,2,2,2,2
+Yes,25,Travel_Rarely,Sales,19,2,3,Male,1,Sales Representative,2,Married,18,3,1,1,0,0,0
+Yes,33,Travel_Frequently,Research & Development,29,4,1,Female,2,Research Scientist,3,Single,22,4,14,13,7,3,8
+Yes,26,Travel_Frequently,Human Resources,17,4,2,Female,1,Human Resources,3,Divorced,11,3,8,7,7,1,0
+Yes,33,Travel_Frequently,Research & Development,29,4,1,Female,2,Research Scientist,3,Single,22,4,14,13,7,3,8
+Yes,34,Travel_Frequently,Research & Development,9,4,4,Male,2,Laboratory Technician,1,Married,17,3,11,7,1,0,7
+Yes,43,Travel_Frequently,Research & Development,17,3,3,Male,1,Research Scientist,3,Married,16,3,6,1,0,0,0
+Yes,18,Non-Travel,Research & Development,8,1,3,Male,1,Laboratory Technician,3,Single,12,3,0,0,0,0,0
+Yes,46,Travel_Rarely,Research & Development,21,2,4,Female,2,Healthcare Representative,2,Married,22,4,13,9,7,3,7
+Yes,38,Travel_Rarely,Research & Development,2,3,3,Male,2,Manufacturing Director,2,Married,11,3,7,5,2,1,4
+Yes,33,Travel_Frequently,Research & Development,29,4,1,Female,2,Research Scientist,3,Single,22,4,14,13,7,3,8
+Yes,39,Travel_Rarely,Research & Development,6,3,4,Male,1,Laboratory Technician,1,Married,21,4,8,2,2,2,2
+Yes,34,Travel_Rarely,Human Resources,9,4,1,Female,1,Human Resources,3,Married,15,3,2,2,2,2,2
+Yes,24,Travel_Frequently,Research & Development,9,3,2,Male,1,Laboratory Technician,1,Single,11,3,4,0,0,0,0
+Yes,47,Non-Travel,Research & Development,29,4,1,Male,3,Manager,2,Married,12,3,10,10,7,9,9
+Yes,29,Travel_Rarely,Research & Development,18,1,3,Male,1,Research Scientist,4,Single,13,3,4,4,3,0,1
+Yes,32,Travel_Frequently,Research & Development,16,1,2,Female,1,Research Scientist,1,Single,22,4,10,10,2,6,7
+Yes,18,Travel_Frequently,Sales,5,3,2,Male,1,Sales Representative,2,Single,14,3,0,0,0,0,0
+Yes,33,Travel_Rarely,Research & Development,2,2,1,Female,1,Laboratory Technician,1,Married,20,4,13,9,7,1,7
+Yes,26,Travel_Rarely,Human Resources,20,2,4,Female,1,Human Resources,2,Married,11,3,6,5,1,1,4
+Yes,49,Travel_Rarely,Sales,11,3,3,Female,3,Sales Executive,4,Married,18,3,9,9,8,7,7
+Yes,28,Travel_Rarely,Sales,13,2,4,Female,2,Sales Executive,3,Single,11,3,6,2,0,2,2
+Yes,31,Travel_Rarely,Research & Development,8,3,1,Female,1,Research Scientist,2,Single,12,3,1,1,0,0,0
+Yes,42,Travel_Frequently,Research & Development,19,3,3,Male,1,Research Scientist,3,Divorced,12,3,7,2,2,2,2
+Yes,55,Travel_Rarely,Sales,2,1,3,Male,2,Sales Executive,4,Single,16,3,12,9,7,7,3
+Yes,29,Travel_Rarely,Research & Development,10,3,4,Female,1,Research Scientist,1,Single,20,4,3,0,0,0,0
+Yes,37,Travel_Rarely,Research & Development,11,2,1,Female,2,Healthcare Representative,2,Married,15,3,15,1,0,0,0
+Yes,31,Travel_Rarely,Sales,13,4,2,Male,2,Sales Executive,1,Divorced,17,3,9,3,1,1,2
+Yes,30,Travel_Rarely,Research & Development,3,3,4,Female,1,Research Scientist,1,Single,11,3,8,5,2,0,4
+Yes,26,Travel_Frequently,Research & Development,3,1,3,Male,1,Research Scientist,1,Single,22,4,7,6,4,0,4
+Yes,21,Travel_Rarely,Research & Development,18,1,4,Female,1,Research Scientist,4,Single,19,3,1,1,0,0,0
+Yes,31,Travel_Rarely,Research & Development,8,3,1,Female,1,Research Scientist,2,Single,12,3,1,1,0,0,0
+Yes,25,Travel_Frequently,Sales,24,1,3,Male,1,Sales Representative,4,Single,14,3,1,1,0,1,0
+Yes,41,Travel_Rarely,Sales,1,2,2,Female,2,Sales Executive,4,Single,11,3,8,6,4,0,5
+Yes,40,Travel_Rarely,Research & Development,9,4,4,Male,1,Laboratory Technician,1,Single,14,3,15,5,4,1,0
+Yes,28,Travel_Rarely,Sales,13,2,4,Female,2,Sales Executive,3,Single,11,3,6,2,0,2,2
+Yes,41,Non-Travel,Research & Development,5,2,1,Male,1,Research Scientist,1,Divorced,17,3,5,1,0,0,0
+Yes,33,Travel_Rarely,Sales,5,3,4,Female,1,Sales Representative,3,Single,13,3,1,1,0,0,0
+Yes,48,Travel_Frequently,Sales,7,2,4,Female,1,Sales Representative,3,Married,11,3,19,9,7,7,7
+Yes,18,Travel_Frequently,Sales,3,2,2,Female,1,Sales Representative,4,Single,12,3,0,0,0,0,0
+Yes,39,Travel_Rarely,Sales,3,2,4,Female,2,Sales Executive,3,Married,18,3,12,1,0,0,0
+Yes,48,Travel_Frequently,Sales,7,2,4,Female,1,Sales Representative,3,Married,11,3,19,9,7,7,7
+Yes,31,Travel_Frequently,Sales,2,3,3,Female,1,Sales Representative,4,Single,14,3,3,1,0,0,0
+Yes,45,Travel_Rarely,Sales,2,3,1,Female,5,Manager,2,Single,16,3,26,24,10,1,11
+Yes,26,Travel_Rarely,Research & Development,25,3,1,Male,1,Laboratory Technician,3,Single,12,3,1,1,0,0,1
+Yes,34,Travel_Rarely,Human Resources,9,4,1,Female,1,Human Resources,3,Married,15,3,2,2,2,2,2
+Yes,58,Travel_Rarely,Research & Development,23,4,4,Female,3,Healthcare Representative,4,Married,12,3,40,40,10,15,6
+Yes,44,Travel_Rarely,Research & Development,15,3,1,Female,3,Healthcare Representative,4,Married,11,3,10,10,7,0,5
+Yes,29,Travel_Rarely,Research & Development,1,4,1,Male,1,Research Scientist,1,Single,13,3,11,9,7,0,7
+Yes,39,Travel_Rarely,Sales,5,3,4,Male,2,Sales Representative,4,Married,14,3,19,1,0,0,0
+Yes,31,Travel_Rarely,Research & Development,22,4,4,Male,2,Manufacturing Director,3,Married,15,3,10,10,2,6,7
+Yes,21,Travel_Rarely,Research & Development,18,1,4,Female,1,Research Scientist,4,Single,19,3,1,1,0,0,0
+Yes,36,Travel_Rarely,Research & Development,16,4,3,Female,1,Laboratory Technician,1,Single,16,3,18,17,13,15,14
+Yes,35,Travel_Rarely,Research & Development,14,4,3,Male,1,Laboratory Technician,2,Divorced,24,4,5,4,2,0,2
+Yes,35,Travel_Rarely,Research & Development,2,3,1,Female,1,Laboratory Technician,1,Divorced,12,3,1,1,0,0,0
+Yes,32,Travel_Rarely,Research & Development,1,3,4,Male,1,Laboratory Technician,3,Single,14,3,4,3,2,1,2
+Yes,19,Travel_Rarely,Sales,21,3,4,Male,1,Sales Representative,2,Single,13,3,1,1,0,0,0
+Yes,22,Travel_Rarely,Research & Development,7,1,4,Male,1,Research Scientist,2,Single,23,4,1,1,0,0,0
+Yes,29,Travel_Rarely,Research & Development,8,4,2,Male,1,Laboratory Technician,1,Married,11,3,7,7,7,0,7
+Yes,38,Travel_Rarely,Research & Development,29,1,2,Male,2,Healthcare Representative,1,Married,19,3,17,1,0,0,0
+Yes,52,Travel_Rarely,Sales,2,1,1,Female,5,Manager,4,Married,15,3,33,32,14,6,9
+Yes,33,Travel_Rarely,Research & Development,10,1,1,Male,1,Laboratory Technician,4,Divorced,13,3,8,4,3,1,3
+Yes,21,Travel_Frequently,Research & Development,10,2,1,Female,1,Laboratory Technician,3,Single,20,4,2,2,2,2,2
+Yes,40,Travel_Rarely,Research & Development,9,4,4,Male,1,Laboratory Technician,1,Single,14,3,15,5,4,1,0
+Yes,25,Travel_Rarely,Sales,5,3,3,Male,2,Sales Executive,3,Single,11,3,6,6,4,0,3
+Yes,26,Travel_Rarely,Research & Development,16,4,1,Male,1,Laboratory Technician,2,Divorced,13,3,5,3,2,0,2
+Yes,28,Travel_Rarely,Research & Development,17,3,3,Male,1,Laboratory Technician,4,Divorced,12,3,6,4,1,0,3
+Yes,23,Travel_Rarely,Research & Development,6,3,3,Male,1,Laboratory Technician,1,Married,21,4,1,0,0,0,0
+Yes,39,Non-Travel,Research & Development,2,3,1,Female,1,Laboratory Technician,1,Single,23,4,11,1,0,0,0
+Yes,29,Travel_Rarely,Research & Development,1,3,3,Male,1,Research Scientist,3,Single,14,3,7,6,2,1,5
+Yes,20,Travel_Frequently,Research & Development,6,3,4,Female,1,Laboratory Technician,4,Single,18,3,1,1,0,1,0
+Yes,28,Travel_Rarely,Research & Development,5,4,3,Male,1,Laboratory Technician,3,Single,13,3,2,2,2,2,2
+Yes,47,Travel_Frequently,Sales,27,2,2,Female,2,Sales Executive,3,Single,12,3,8,5,4,1,3
+Yes,44,Travel_Frequently,Research & Development,1,2,3,Male,1,Research Scientist,2,Divorced,12,3,6,5,3,2,3
+Yes,36,Travel_Rarely,Sales,3,1,3,Male,3,Sales Executive,4,Married,11,3,16,16,7,3,7
+Yes,50,Travel_Rarely,Sales,28,3,4,Male,3,Sales Executive,1,Divorced,13,3,20,3,2,2,0
+Yes,31,Travel_Frequently,Research & Development,20,3,1,Male,3,Healthcare Representative,3,Married,12,3,12,1,0,0,0
+Yes,46,Travel_Rarely,Sales,10,3,3,Female,3,Sales Executive,2,Married,21,4,14,8,7,0,7
+Yes,34,Non-Travel,Research & Development,16,4,4,Male,1,Research Scientist,1,Married,23,4,5,5,2,3,0
+Yes,31,Travel_Rarely,Sales,6,4,2,Male,2,Sales Executive,3,Married,18,3,12,7,7,7,7
+Yes,18,Non-Travel,Research & Development,8,1,3,Male,1,Laboratory Technician,3,Single,12,3,0,0,0,0,0
+Yes,50,Travel_Rarely,Sales,3,2,1,Male,1,Sales Representative,3,Married,14,3,3,3,2,0,2
+Yes,29,Travel_Rarely,Human Resources,13,3,1,Male,1,Human Resources,1,Divorced,15,3,4,2,2,2,0
+Yes,47,Travel_Frequently,Sales,9,3,3,Male,4,Sales Executive,3,Married,11,3,25,23,5,14,10
+Yes,52,Travel_Rarely,Sales,5,3,2,Male,3,Sales Executive,2,Single,19,3,10,8,7,7,7
+Yes,31,Travel_Frequently,Research & Development,15,3,3,Male,1,Laboratory Technician,3,Married,12,3,2,2,2,2,2
+Yes,22,Travel_Frequently,Research & Development,3,4,3,Male,1,Research Scientist,4,Married,11,3,1,0,0,0,0
+Yes,28,Travel_Rarely,Research & Development,2,4,3,Male,1,Research Scientist,3,Single,17,3,5,2,2,2,1
+Yes,37,Travel_Rarely,Research & Development,11,2,1,Female,2,Healthcare Representative,2,Married,15,3,15,1,0,0,0
+Yes,58,Travel_Rarely,Research & Development,2,4,4,Male,5,Research Director,2,Single,12,3,40,31,15,13,8
+Yes,44,Travel_Frequently,Research & Development,24,3,4,Male,1,Laboratory Technician,3,Divorced,22,4,19,1,0,0,0
+Yes,34,Non-Travel,Sales,19,3,1,Male,2,Sales Executive,4,Single,13,3,9,5,2,0,4
+Yes,51,Travel_Rarely,Research & Development,4,4,1,Male,1,Research Scientist,3,Married,12,3,18,10,0,2,7
+Yes,41,Travel_Rarely,Sales,1,2,2,Female,2,Sales Executive,4,Single,11,3,8,6,4,0,5
+Yes,32,Non-Travel,Sales,11,4,4,Male,2,Sales Executive,3,Married,12,3,6,4,2,1,2
+Yes,23,Travel_Frequently,Sales,9,3,4,Male,1,Sales Representative,1,Married,19,3,1,1,0,1,0
+Yes,29,Travel_Rarely,Research & Development,1,4,1,Male,1,Research Scientist,1,Single,13,3,11,9,7,0,7
+Yes,46,Travel_Rarely,Sales,10,3,3,Female,3,Sales Executive,2,Married,21,4,14,8,7,0,7
+Yes,33,Travel_Rarely,Research & Development,10,1,1,Male,1,Laboratory Technician,4,Divorced,13,3,8,4,3,1,3
+Yes,43,Travel_Rarely,Sales,9,3,1,Female,2,Sales Executive,3,Single,13,3,7,4,3,1,3
+Yes,26,Travel_Rarely,Research & Development,21,3,1,Male,1,Laboratory Technician,3,Divorced,20,4,1,1,1,0,0
+Yes,34,Travel_Rarely,Sales,24,4,1,Female,2,Sales Executive,2,Single,23,4,16,15,9,10,10
+Yes,29,Travel_Rarely,Research & Development,1,2,2,Female,1,Laboratory Technician,1,Married,11,3,1,1,0,0,0
+Yes,30,Travel_Frequently,Sales,26,4,3,Female,2,Sales Executive,1,Single,15,3,9,6,3,0,1
+Yes,23,Travel_Rarely,Research & Development,8,1,4,Male,1,Laboratory Technician,3,Single,11,3,5,5,4,1,2
+Yes,49,Travel_Rarely,Sales,11,3,3,Female,3,Sales Executive,4,Married,18,3,9,9,8,7,7
+Yes,31,Travel_Rarely,Sales,16,4,1,Male,3,Sales Executive,3,Married,13,3,10,1,0,0,0
+Yes,29,Travel_Rarely,Research & Development,1,4,1,Male,1,Research Scientist,1,Single,13,3,11,9,7,0,7
+Yes,27,Travel_Rarely,Sales,2,1,3,Male,1,Sales Representative,1,Divorced,11,3,5,4,3,0,2
+Yes,34,Travel_Frequently,Research & Development,9,4,4,Male,2,Laboratory Technician,1,Married,17,3,11,7,1,0,7
+Yes,44,Travel_Rarely,Human Resources,1,2,2,Male,3,Human Resources,1,Married,14,3,24,20,6,3,6
+Yes,46,Travel_Rarely,Sales,9,2,3,Male,3,Sales Executive,4,Single,16,3,9,9,8,4,7
+Yes,30,Travel_Rarely,Research & Development,22,3,1,Female,1,Research Scientist,3,Married,11,3,7,5,2,0,1
+Yes,30,Travel_Rarely,Research & Development,3,3,4,Female,1,Research Scientist,1,Single,11,3,8,5,2,0,4
+Yes,24,Travel_Rarely,Research & Development,17,2,4,Female,1,Laboratory Technician,2,Married,13,3,1,1,0,0,0
+Yes,29,Travel_Frequently,Research & Development,14,1,3,Female,3,Healthcare Representative,4,Single,12,3,9,8,7,7,7
+Yes,51,Travel_Frequently,Research & Development,8,4,1,Male,3,Manufacturing Director,4,Single,15,3,18,4,2,0,3
+Yes,30,Travel_Rarely,Sales,9,3,2,Male,1,Sales Representative,4,Single,13,3,1,1,0,0,0
+Yes,35,Travel_Rarely,Research & Development,2,3,1,Female,1,Laboratory Technician,1,Divorced,12,3,1,1,0,0,0
+Yes,41,Travel_Rarely,Sales,20,2,2,Female,1,Sales Representative,2,Single,22,4,4,4,3,0,2
+Yes,44,Travel_Frequently,Research & Development,1,2,3,Male,1,Research Scientist,2,Divorced,12,3,6,5,3,2,3
+Yes,44,Travel_Frequently,Research & Development,1,2,3,Male,1,Research Scientist,2,Divorced,12,3,6,5,3,2,3
+Yes,28,Travel_Frequently,Research & Development,1,3,1,Male,1,Laboratory Technician,2,Divorced,15,3,1,1,0,0,0
+Yes,22,Travel_Rarely,Research & Development,7,1,4,Male,1,Research Scientist,2,Single,23,4,1,1,0,0,0
+Yes,28,Travel_Rarely,Research & Development,24,3,3,Male,1,Laboratory Technician,3,Single,14,3,6,4,2,0,3
+Yes,29,Travel_Rarely,Research & Development,25,5,3,Female,1,Research Scientist,2,Married,16,3,6,2,2,1,1
+Yes,31,Non-Travel,Research & Development,9,2,3,Male,1,Research Scientist,1,Single,22,4,4,3,2,1,2
+Yes,35,Travel_Rarely,Sales,4,3,4,Male,3,Sales Executive,1,Single,22,4,9,8,7,4,7
+Yes,46,Travel_Rarely,Research & Development,21,2,4,Female,2,Healthcare Representative,2,Married,22,4,13,9,7,3,7
+Yes,44,Travel_Rarely,Research & Development,10,4,3,Male,1,Research Scientist,3,Single,11,3,6,6,4,0,2
+Yes,32,Travel_Rarely,Sales,2,4,3,Male,2,Sales Executive,2,Single,12,3,7,2,2,2,2
+Yes,30,Travel_Rarely,Sales,9,3,2,Male,1,Sales Representative,4,Single,13,3,1,1,0,0,0
+Yes,56,Travel_Rarely,Research & Development,24,2,1,Male,1,Laboratory Technician,4,Single,16,3,5,4,2,1,0
+Yes,24,Travel_Frequently,Research & Development,7,3,1,Female,1,Laboratory Technician,3,Married,16,3,6,6,3,1,2
+Yes,28,Travel_Frequently,Research & Development,2,2,3,Male,1,Laboratory Technician,1,Single,11,3,8,0,0,0,0
+Yes,38,Travel_Rarely,Research & Development,29,1,2,Male,2,Healthcare Representative,1,Married,19,3,17,1,0,0,0
+Yes,31,Travel_Frequently,Research & Development,20,3,1,Male,3,Healthcare Representative,3,Married,12,3,12,1,0,0,0
+Yes,39,Travel_Rarely,Research & Development,23,3,3,Male,1,Research Scientist,1,Single,13,3,6,5,2,0,3
+Yes,31,Travel_Rarely,Research & Development,22,4,4,Male,2,Manufacturing Director,3,Married,15,3,10,10,2,6,7
+Yes,50,Travel_Frequently,Sales,8,2,2,Male,2,Sales Executive,3,Married,14,3,18,4,3,1,3
+Yes,31,Travel_Frequently,Sales,26,4,1,Male,2,Sales Executive,4,Married,11,3,10,10,7,0,8
+Yes,44,Travel_Rarely,Research & Development,10,4,3,Male,1,Research Scientist,3,Single,11,3,6,6,4,0,2
+Yes,18,Non-Travel,Research & Development,8,1,3,Male,1,Laboratory Technician,3,Single,12,3,0,0,0,0,0
+Yes,29,Travel_Rarely,Sales,23,1,4,Female,3,Sales Executive,1,Married,13,3,11,11,8,3,10
+Yes,24,Travel_Rarely,Sales,3,2,1,Female,2,Sales Executive,3,Single,14,3,4,2,2,2,0
+Yes,20,Travel_Rarely,Research & Development,11,3,4,Female,1,Research Scientist,1,Single,15,3,1,1,0,0,0
+Yes,32,Travel_Rarely,Research & Development,9,3,1,Female,1,Laboratory Technician,1,Single,22,4,10,5,4,0,4
+Yes,35,Travel_Frequently,Sales,12,4,4,Male,2,Sales Executive,4,Single,24,4,13,11,9,6,7
+Yes,28,Travel_Rarely,Research & Development,12,1,3,Female,1,Laboratory Technician,4,Married,11,3,1,1,1,0,0
+Yes,20,Travel_Rarely,Research & Development,4,3,1,Male,1,Laboratory Technician,1,Single,19,3,1,1,0,0,0
+Yes,36,Travel_Rarely,Research & Development,16,4,3,Female,1,Laboratory Technician,1,Single,16,3,18,17,13,15,14
+Yes,48,Travel_Rarely,Research & Development,1,2,1,Male,3,Laboratory Technician,3,Single,13,3,23,1,0,0,0
+Yes,20,Travel_Rarely,Sales,2,3,3,Female,1,Sales Representative,3,Single,13,3,2,2,2,0,2
+Yes,50,Travel_Rarely,Sales,28,3,4,Male,3,Sales Executive,1,Divorced,13,3,20,3,2,2,0
+Yes,33,Travel_Rarely,Research & Development,2,2,1,Female,1,Laboratory Technician,1,Married,20,4,13,9,7,1,7
+Yes,35,Travel_Rarely,Research & Development,14,4,3,Male,1,Laboratory Technician,2,Divorced,24,4,5,4,2,0,2
+Yes,19,Travel_Rarely,Sales,22,1,4,Male,1,Sales Representative,3,Single,19,3,0,0,0,0,0
+Yes,40,Travel_Rarely,Sales,22,2,3,Male,2,Sales Executive,3,Married,12,3,8,6,4,1,0
+Yes,34,Non-Travel,Sales,19,3,1,Male,2,Sales Executive,4,Single,13,3,9,5,2,0,4
+Yes,55,Travel_Rarely,Research & Development,2,3,4,Male,5,Manager,1,Married,13,3,24,5,2,1,4
+Yes,34,Travel_Rarely,Sales,24,4,1,Female,2,Sales Executive,2,Single,23,4,16,15,9,10,10
+Yes,34,Travel_Rarely,Human Resources,9,4,1,Female,1,Human Resources,3,Married,15,3,2,2,2,2,2
+Yes,28,Travel_Frequently,Research & Development,2,2,3,Male,1,Laboratory Technician,1,Single,11,3,8,0,0,0,0
+Yes,44,Travel_Rarely,Research & Development,10,4,3,Male,1,Research Scientist,3,Single,11,3,6,6,4,0,2
+Yes,40,Travel_Rarely,Research & Development,7,3,1,Male,1,Laboratory Technician,1,Single,14,3,10,4,2,0,3
+Yes,28,Travel_Rarely,Research & Development,2,4,1,Male,1,Laboratory Technician,3,Single,11,3,5,0,0,0,0
+Yes,28,Travel_Rarely,Research & Development,2,4,3,Male,1,Research Scientist,3,Single,17,3,5,2,2,2,1
+Yes,46,Travel_Rarely,Sales,9,3,1,Male,3,Sales Executive,4,Divorced,11,3,28,7,7,4,3
+Yes,43,Travel_Rarely,Sales,9,3,1,Female,2,Sales Executive,3,Single,13,3,7,4,3,1,3
+Yes,29,Travel_Rarely,Research & Development,8,4,2,Male,1,Laboratory Technician,1,Married,11,3,7,7,7,0,7
+Yes,29,Travel_Rarely,Research & Development,1,4,1,Male,1,Research Scientist,1,Single,13,3,11,9,7,0,7
+Yes,40,Travel_Rarely,Research & Development,9,4,4,Male,1,Laboratory Technician,1,Single,14,3,15,5,4,1,0
+Yes,28,Travel_Rarely,Research & Development,1,2,1,Female,1,Research Scientist,2,Single,13,3,10,7,7,3,7
+Yes,58,Travel_Frequently,Research & Development,2,1,4,Male,1,Laboratory Technician,4,Divorced,14,3,3,1,0,0,0
+Yes,28,Travel_Rarely,Research & Development,2,4,1,Male,1,Laboratory Technician,3,Single,11,3,5,0,0,0,0
+Yes,28,Travel_Rarely,Research & Development,24,3,3,Male,1,Laboratory Technician,2,Married,17,3,1,1,1,0,0
+Yes,33,Travel_Rarely,Research & Development,14,3,3,Male,1,Laboratory Technician,4,Married,13,3,8,5,4,0,4
+Yes,40,Non-Travel,Sales,24,3,2,Female,4,Sales Executive,2,Single,16,3,22,1,0,0,0
+Yes,21,Travel_Rarely,Sales,7,1,2,Male,1,Sales Representative,2,Single,13,3,1,1,0,1,0
+Yes,31,Non-Travel,Research & Development,9,2,3,Male,1,Research Scientist,1,Single,22,4,4,3,2,1,2
+Yes,32,Travel_Rarely,Research & Development,25,4,1,Male,1,Laboratory Technician,4,Single,24,4,1,1,0,0,1
+Yes,28,Travel_Rarely,Research & Development,24,3,3,Male,1,Laboratory Technician,3,Single,14,3,6,4,2,0,3
+Yes,34,Travel_Frequently,Sales,6,2,4,Female,1,Sales Representative,3,Divorced,16,3,3,2,2,1,0
+Yes,32,Travel_Rarely,Research & Development,25,4,1,Male,1,Laboratory Technician,4,Single,24,4,1,1,0,0,1
+Yes,22,Travel_Rarely,Research & Development,8,1,3,Female,1,Laboratory Technician,1,Married,17,3,1,1,0,0,0
+Yes,20,Travel_Frequently,Research & Development,6,3,4,Female,1,Laboratory Technician,4,Single,18,3,1,1,0,1,0
+Yes,26,Travel_Frequently,Human Resources,17,4,2,Female,1,Human Resources,3,Divorced,11,3,8,7,7,1,0
+Yes,33,Travel_Rarely,Sales,5,3,4,Female,1,Sales Representative,3,Single,13,3,1,1,0,0,0
+Yes,28,Travel_Rarely,Sales,13,2,4,Female,2,Sales Executive,3,Single,11,3,6,2,0,2,2
+Yes,56,Travel_Rarely,Research & Development,24,2,1,Male,1,Laboratory Technician,4,Single,16,3,5,4,2,1,0
+Yes,31,Travel_Frequently,Research & Development,2,3,2,Male,1,Laboratory Technician,4,Married,13,3,7,2,2,2,2
+Yes,34,Travel_Rarely,Human Resources,9,4,1,Female,1,Human Resources,3,Married,15,3,2,2,2,2,2
+Yes,39,Travel_Frequently,Research & Development,2,3,1,Male,4,Healthcare Representative,4,Divorced,11,3,21,18,7,11,5
+Yes,28,Travel_Frequently,Sales,1,3,1,Male,1,Sales Representative,3,Married,15,3,5,3,2,1,2
+Yes,33,Travel_Rarely,Sales,5,3,4,Female,1,Sales Representative,3,Single,13,3,1,1,0,0,0
+Yes,58,Travel_Rarely,Research & Development,2,3,4,Male,1,Research Scientist,3,Single,24,4,7,1,0,0,0
+Yes,55,Travel_Rarely,Sales,13,4,1,Male,4,Sales Executive,3,Single,17,3,24,19,7,3,8
+Yes,33,Travel_Frequently,Research & Development,29,4,1,Female,2,Research Scientist,3,Single,22,4,14,13,7,3,8
+Yes,21,Travel_Rarely,Research & Development,18,1,4,Female,1,Research Scientist,4,Single,19,3,1,1,0,0,0
+Yes,33,Travel_Rarely,Sales,9,4,1,Female,2,Sales Executive,1,Single,17,3,6,5,2,0,3
+Yes,28,Travel_Rarely,Research & Development,2,4,1,Male,1,Research Scientist,4,Married,13,3,5,3,2,2,2
+Yes,35,Travel_Rarely,Research & Development,23,2,2,Male,2,Manufacturing Director,3,Married,13,3,8,1,0,0,1
+Yes,29,Travel_Rarely,Research & Development,18,1,3,Male,1,Research Scientist,4,Single,13,3,4,4,3,0,1
+Yes,28,Travel_Rarely,Research & Development,2,4,3,Male,1,Research Scientist,3,Single,17,3,5,2,2,2,1
+Yes,23,Travel_Rarely,Research & Development,8,1,4,Male,1,Laboratory Technician,3,Single,11,3,5,5,4,1,2
+Yes,29,Travel_Rarely,Research & Development,7,3,2,Female,1,Laboratory Technician,3,Divorced,13,3,10,7,7,7,7
+Yes,31,Non-Travel,Research & Development,9,2,3,Male,1,Research Scientist,1,Single,22,4,4,3,2,1,2
+Yes,21,Travel_Frequently,Sales,1,1,1,Female,1,Sales Representative,2,Single,11,3,3,3,2,1,2
+Yes,35,Travel_Frequently,Sales,18,4,4,Female,2,Sales Executive,3,Married,18,3,5,4,2,3,2
+Yes,36,Travel_Rarely,Sales,13,5,2,Male,2,Sales Executive,1,Divorced,13,3,16,2,2,2,2
+Yes,31,Travel_Frequently,Sales,1,3,4,Female,1,Sales Representative,2,Single,11,3,3,3,2,2,2
+Yes,33,Travel_Rarely,Research & Development,1,4,4,Male,1,Research Scientist,4,Single,13,3,10,10,9,7,8
+Yes,58,Travel_Rarely,Research & Development,2,4,4,Male,5,Research Director,2,Single,12,3,40,31,15,13,8
+Yes,30,Travel_Rarely,Research & Development,22,3,1,Female,1,Research Scientist,3,Married,11,3,7,5,2,0,1
+Yes,21,Travel_Rarely,Research & Development,10,3,3,Female,1,Laboratory Technician,1,Single,13,3,1,1,0,1,0
+Yes,34,Travel_Frequently,Human Resources,23,3,2,Female,3,Human Resources,1,Divorced,15,3,11,3,2,0,2
+Yes,35,Travel_Rarely,Sales,27,3,3,Male,2,Sales Executive,4,Single,18,3,10,10,7,7,7
+Yes,37,Travel_Rarely,Research & Development,11,2,1,Female,2,Healthcare Representative,2,Married,15,3,15,1,0,0,0
+Yes,18,Travel_Frequently,Sales,5,3,2,Male,1,Sales Representative,2,Single,14,3,0,0,0,0,0
+Yes,24,Travel_Rarely,Sales,1,1,1,Female,1,Sales Representative,2,Single,16,3,6,5,3,1,4
+Yes,28,Travel_Rarely,Research & Development,2,4,3,Male,1,Research Scientist,3,Single,17,3,5,2,2,2,1
+Yes,29,Travel_Rarely,Research & Development,18,1,3,Male,1,Research Scientist,4,Single,13,3,4,4,3,0,1
+Yes,36,Travel_Rarely,Research & Development,15,3,1,Male,2,Laboratory Technician,3,Divorced,14,3,9,1,0,0,0
+Yes,28,Travel_Rarely,Research & Development,2,4,1,Male,1,Laboratory Technician,3,Single,11,3,5,0,0,0,0
+Yes,36,Travel_Rarely,Research & Development,9,3,4,Male,1,Research Scientist,3,Married,17,3,2,1,0,0,0
+Yes,52,Travel_Rarely,Research & Development,8,4,3,Male,2,Research Scientist,2,Married,15,3,11,8,2,7,7
+Yes,44,Travel_Frequently,Research & Development,1,2,3,Male,1,Research Scientist,2,Divorced,12,3,6,5,3,2,3
+Yes,32,Travel_Rarely,Sales,4,4,4,Male,3,Sales Executive,4,Married,11,3,14,14,8,9,8
+Yes,33,Travel_Rarely,Research & Development,2,2,1,Female,1,Laboratory Technician,1,Married,20,4,13,9,7,1,7
+Yes,37,Travel_Frequently,Research & Development,10,3,1,Male,3,Manufacturing Director,3,Divorced,11,3,17,1,0,0,0
+Yes,28,Travel_Frequently,Research & Development,2,2,3,Male,1,Laboratory Technician,1,Single,11,3,8,0,0,0,0
+Yes,28,Travel_Rarely,Research & Development,2,4,3,Male,1,Research Scientist,3,Single,17,3,5,2,2,2,1
+Yes,42,Travel_Frequently,Sales,12,3,3,Male,4,Sales Executive,1,Single,12,3,22,21,9,13,14
+Yes,33,Travel_Rarely,Research & Development,2,2,1,Female,1,Laboratory Technician,1,Married,20,4,13,9,7,1,7
+Yes,35,Travel_Rarely,Research & Development,14,4,3,Male,1,Laboratory Technician,2,Divorced,24,4,5,4,2,0,2
+Yes,26,Travel_Rarely,Human Resources,20,2,4,Female,1,Human Resources,2,Married,11,3,6,5,1,1,4
+Yes,31,Travel_Rarely,Research & Development,22,4,4,Male,2,Manufacturing Director,3,Married,15,3,10,10,2,6,7
+Yes,28,Non-Travel,Research & Development,24,2,2,Male,3,Healthcare Representative,1,Single,12,3,10,10,7,1,9
+Yes,41,Travel_Rarely,Research & Development,2,4,2,Female,1,Laboratory Technician,4,Divorced,13,3,10,7,7,1,0
+Yes,53,Travel_Rarely,Research & Development,2,5,3,Female,3,Manufacturing Director,4,Married,16,3,34,33,7,1,9
+Yes,41,Travel_Rarely,Research & Development,2,4,2,Female,1,Laboratory Technician,4,Divorced,13,3,10,7,7,1,0
+Yes,20,Travel_Rarely,Sales,2,3,3,Female,1,Sales Representative,3,Single,13,3,2,2,2,0,2
+Yes,31,Travel_Frequently,Research & Development,29,2,3,Male,1,Laboratory Technician,2,Single,11,3,6,5,4,1,4
+Yes,46,Travel_Rarely,Sales,9,3,1,Male,3,Sales Executive,4,Divorced,11,3,28,7,7,4,3
+Yes,41,Non-Travel,Research & Development,5,2,1,Male,1,Research Scientist,1,Divorced,17,3,5,1,0,0,0
+Yes,29,Travel_Rarely,Sales,9,3,2,Female,1,Sales Representative,2,Single,13,3,2,2,2,2,2
+Yes,33,Travel_Rarely,Research & Development,10,1,1,Male,1,Laboratory Technician,4,Divorced,13,3,8,4,3,1,3
+Yes,29,Travel_Rarely,Sales,23,1,4,Female,3,Sales Executive,1,Married,13,3,11,11,8,3,10
+Yes,55,Travel_Rarely,Research & Development,2,3,4,Male,5,Manager,1,Married,13,3,24,5,2,1,4
+Yes,33,Travel_Rarely,Research & Development,15,1,2,Male,3,Manager,3,Married,12,3,15,7,6,7,7
+Yes,34,Travel_Frequently,Human Resources,23,3,2,Female,3,Human Resources,1,Divorced,15,3,11,3,2,0,2
+Yes,29,Travel_Rarely,Research & Development,1,4,1,Male,1,Research Scientist,1,Single,13,3,11,9,7,0,7
+Yes,28,Non-Travel,Research & Development,24,2,2,Male,3,Healthcare Representative,1,Single,12,3,10,10,7,1,9
+Yes,55,Travel_Rarely,Research & Development,2,3,4,Male,5,Manager,1,Married,13,3,24,5,2,1,4
+Yes,28,Travel_Rarely,Research & Development,1,2,1,Female,1,Research Scientist,2,Single,13,3,10,7,7,3,7
+Yes,41,Travel_Rarely,Research & Development,12,3,2,Female,5,Research Director,3,Married,12,3,23,22,15,15,8
+Yes,29,Travel_Rarely,Research & Development,1,4,1,Male,1,Research Scientist,4,Married,14,3,4,2,2,2,2
+Yes,33,Travel_Rarely,Research & Development,15,1,2,Male,3,Manager,3,Married,12,3,15,7,6,7,7
+Yes,35,Travel_Rarely,Sales,4,3,4,Male,3,Sales Executive,1,Single,22,4,9,8,7,4,7
+Yes,46,Travel_Rarely,Research & Development,21,2,4,Female,2,Healthcare Representative,2,Married,22,4,13,9,7,3,7
+Yes,29,Travel_Rarely,Sales,9,3,2,Female,1,Sales Representative,2,Single,13,3,2,2,2,2,2
+Yes,32,Travel_Rarely,Research & Development,1,3,4,Male,1,Laboratory Technician,3,Single,14,3,4,3,2,1,2
+Yes,29,Travel_Rarely,Research & Development,18,1,3,Male,1,Research Scientist,4,Single,13,3,4,4,3,0,1
+Yes,29,Travel_Rarely,Research & Development,1,3,3,Male,1,Research Scientist,3,Single,14,3,7,6,2,1,5
+Yes,32,Travel_Rarely,Research & Development,25,4,1,Male,1,Laboratory Technician,4,Single,24,4,1,1,0,0,1
+Yes,19,Travel_Frequently,Sales,1,1,3,Female,1,Sales Representative,1,Single,21,4,1,0,0,0,0
+Yes,41,Non-Travel,Research & Development,5,2,1,Male,1,Research Scientist,1,Divorced,17,3,5,1,0,0,0
+Yes,25,Travel_Rarely,Research & Development,4,1,4,Male,1,Laboratory Technician,4,Married,15,3,7,7,7,5,6
+Yes,32,Travel_Rarely,Research & Development,1,3,4,Male,1,Laboratory Technician,3,Single,14,3,4,3,2,1,2
+Yes,46,Travel_Rarely,Research & Development,21,2,4,Female,2,Healthcare Representative,2,Married,22,4,13,9,7,3,7
+Yes,24,Travel_Frequently,Research & Development,7,3,1,Female,1,Laboratory Technician,3,Married,16,3,6,6,3,1,2
+Yes,43,Travel_Frequently,Research & Development,17,3,3,Male,1,Research Scientist,3,Married,16,3,6,1,0,0,0
+Yes,46,Travel_Rarely,Sales,10,3,3,Female,3,Sales Executive,2,Married,21,4,14,8,7,0,7
+Yes,21,Travel_Frequently,Sales,1,1,1,Female,1,Sales Representative,2,Single,11,3,3,3,2,1,2
+Yes,46,Travel_Rarely,Sales,9,3,1,Male,3,Sales Executive,4,Divorced,11,3,28,7,7,4,3
+Yes,29,Travel_Rarely,Sales,23,1,4,Female,3,Sales Executive,1,Married,13,3,11,11,8,3,10
+Yes,58,Travel_Rarely,Research & Development,7,4,3,Female,3,Manufacturing Director,1,Married,14,3,31,10,9,5,9
+Yes,28,Travel_Rarely,Research & Development,12,1,3,Female,1,Laboratory Technician,4,Married,11,3,1,1,1,0,0
+Yes,44,Travel_Rarely,Research & Development,10,4,3,Male,1,Research Scientist,3,Single,11,3,6,6,4,0,2
+Yes,26,Travel_Rarely,Sales,8,3,4,Male,2,Sales Executive,1,Single,17,3,6,4,3,1,2
+Yes,45,Travel_Rarely,Sales,2,3,1,Female,5,Manager,2,Single,16,3,26,24,10,1,11
+Yes,56,Travel_Rarely,Research & Development,7,2,4,Male,1,Laboratory Technician,3,Married,11,3,14,10,9,9,8
+Yes,30,Travel_Frequently,Research & Development,4,3,3,Male,1,Research Scientist,4,Single,23,4,3,1,0,0,0
+Yes,50,Travel_Rarely,Sales,3,2,1,Male,1,Sales Representative,3,Married,14,3,3,3,2,0,2
+Yes,29,Travel_Frequently,Research & Development,14,1,3,Female,3,Healthcare Representative,4,Single,12,3,9,8,7,7,7
+Yes,27,Travel_Rarely,Sales,2,1,3,Male,1,Sales Representative,1,Divorced,11,3,5,4,3,0,2
+Yes,18,Travel_Rarely,Research & Development,3,3,3,Male,1,Laboratory Technician,3,Single,13,3,0,0,0,0,0
+Yes,39,Non-Travel,Research & Development,2,3,1,Female,1,Laboratory Technician,1,Single,23,4,11,1,0,0,0
+Yes,32,Travel_Rarely,Research & Development,9,3,1,Female,1,Laboratory Technician,1,Single,22,4,10,5,4,0,4
+Yes,40,Non-Travel,Sales,24,3,2,Female,4,Sales Executive,2,Single,16,3,22,1,0,0,0
+Yes,31,Travel_Frequently,Sales,1,3,4,Female,1,Sales Representative,2,Single,11,3,3,3,2,2,2
+Yes,41,Travel_Rarely,Research & Development,12,3,2,Female,5,Research Director,3,Married,12,3,23,22,15,15,8
+Yes,33,Travel_Rarely,Research & Development,2,2,1,Female,1,Laboratory Technician,1,Married,20,4,13,9,7,1,7
+Yes,21,Travel_Rarely,Sales,7,1,2,Male,1,Sales Representative,2,Single,13,3,1,1,0,1,0
+Yes,46,Travel_Rarely,Research & Development,21,2,4,Female,2,Healthcare Representative,2,Married,22,4,13,9,7,3,7
+Yes,34,Travel_Frequently,Research & Development,9,4,4,Male,2,Laboratory Technician,1,Married,17,3,11,7,1,0,7
+Yes,20,Travel_Rarely,Sales,2,3,3,Female,1,Sales Representative,3,Single,13,3,2,2,2,0,2
+Yes,25,Travel_Rarely,Research & Development,3,3,1,Male,1,Laboratory Technician,1,Married,13,3,6,2,2,0,2
+Yes,44,Travel_Rarely,Research & Development,10,4,3,Male,1,Research Scientist,3,Single,11,3,6,6,4,0,2
+Yes,37,Travel_Rarely,Human Resources,6,4,3,Male,1,Human Resources,1,Divorced,22,4,7,3,2,0,2
+Yes,33,Travel_Rarely,Research & Development,1,4,4,Male,1,Research Scientist,4,Single,13,3,10,10,9,7,8
+Yes,20,Travel_Rarely,Research & Development,11,3,4,Female,1,Research Scientist,1,Single,15,3,1,1,0,0,0
+Yes,41,Non-Travel,Research & Development,5,2,1,Male,1,Research Scientist,1,Divorced,17,3,5,1,0,0,0
+Yes,24,Travel_Rarely,Research & Development,17,2,4,Female,1,Laboratory Technician,2,Married,13,3,1,1,0,0,0
+Yes,33,Travel_Frequently,Research & Development,29,4,1,Female,2,Research Scientist,3,Single,22,4,14,13,7,3,8
+Yes,20,Travel_Rarely,Sales,2,3,3,Female,1,Sales Representative,3,Single,13,3,2,2,2,0,2
+Yes,32,Travel_Rarely,Sales,1,2,1,Male,2,Sales Executive,2,Single,15,3,10,0,0,0,0
+Yes,53,Travel_Rarely,Research & Development,2,5,3,Female,3,Manufacturing Director,4,Married,16,3,34,33,7,1,9
+Yes,48,Travel_Rarely,Research & Development,1,2,1,Male,3,Laboratory Technician,3,Single,13,3,23,1,0,0,0
+Yes,40,Non-Travel,Sales,24,3,2,Female,4,Sales Executive,2,Single,16,3,22,1,0,0,0
+Yes,52,Travel_Rarely,Research & Development,8,4,3,Male,2,Research Scientist,2,Married,15,3,11,8,2,7,7
+Yes,33,Travel_Rarely,Research & Development,25,3,1,Male,1,Research Scientist,2,Single,20,4,5,2,2,2,2
+Yes,32,Travel_Rarely,Sales,2,4,3,Male,2,Sales Executive,2,Single,12,3,7,2,2,2,2
+Yes,44,Travel_Rarely,Research & Development,10,4,3,Male,1,Research Scientist,3,Single,11,3,6,6,4,0,2
+Yes,39,Travel_Rarely,Research & Development,6,3,4,Male,1,Laboratory Technician,1,Married,21,4,8,2,2,2,2
+Yes,29,Travel_Rarely,Sales,9,3,2,Female,1,Sales Representative,2,Single,13,3,2,2,2,2,2
+Yes,35,Travel_Rarely,Research & Development,2,3,1,Female,1,Laboratory Technician,1,Divorced,12,3,1,1,0,0,0
+Yes,47,Travel_Frequently,Sales,9,3,3,Male,4,Sales Executive,3,Married,11,3,25,23,5,14,10
+Yes,41,Travel_Rarely,Sales,1,2,2,Female,2,Sales Executive,4,Single,11,3,8,6,4,0,5
+Yes,34,Travel_Rarely,Sales,24,4,1,Female,2,Sales Executive,2,Single,23,4,16,15,9,10,10
+Yes,52,Travel_Rarely,Sales,2,1,1,Female,5,Manager,4,Married,15,3,33,32,14,6,9
+Yes,36,Travel_Rarely,Research & Development,15,3,1,Male,2,Laboratory Technician,3,Divorced,14,3,9,1,0,0,0
+Yes,52,Travel_Rarely,Sales,5,3,2,Male,3,Sales Executive,2,Single,19,3,10,8,7,7,7
+Yes,37,Travel_Rarely,Sales,1,4,1,Male,3,Sales Executive,3,Married,11,3,17,14,1,11,7
+Yes,44,Travel_Frequently,Research & Development,1,2,3,Male,1,Research Scientist,2,Divorced,12,3,6,5,3,2,3
+Yes,19,Travel_Rarely,Research & Development,2,3,2,Male,1,Laboratory Technician,4,Single,22,4,1,1,0,1,0
+Yes,56,Travel_Rarely,Research & Development,7,2,4,Male,1,Laboratory Technician,3,Married,11,3,14,10,9,9,8
+Yes,26,Travel_Frequently,Human Resources,17,4,2,Female,1,Human Resources,3,Divorced,11,3,8,7,7,1,0
+Yes,28,Travel_Frequently,Research & Development,2,2,3,Male,1,Laboratory Technician,1,Single,11,3,8,0,0,0,0
+Yes,20,Travel_Rarely,Sales,2,3,3,Female,1,Sales Representative,3,Single,13,3,2,2,2,0,2
+Yes,49,Travel_Frequently,Research & Development,28,2,1,Male,2,Laboratory Technician,1,Single,20,4,20,4,3,1,3
+Yes,34,Travel_Rarely,Sales,24,4,1,Female,2,Sales Executive,2,Single,23,4,16,15,9,10,10
+Yes,56,Travel_Rarely,Research & Development,24,2,1,Male,1,Laboratory Technician,4,Single,16,3,5,4,2,1,0
+Yes,26,Travel_Rarely,Research & Development,16,4,1,Male,1,Laboratory Technician,2,Divorced,13,3,5,3,2,0,2
+Yes,32,Travel_Rarely,Research & Development,1,3,4,Male,1,Laboratory Technician,3,Single,14,3,4,3,2,1,2
+Yes,26,Travel_Rarely,Sales,8,3,4,Male,2,Sales Executive,1,Single,17,3,6,4,3,1,2
+Yes,29,Travel_Frequently,Sales,13,3,1,Female,2,Sales Executive,2,Single,11,3,7,5,3,0,0
+Yes,31,Travel_Frequently,Research & Development,1,5,3,Female,3,Manufacturing Director,2,Single,11,3,10,10,8,4,7
+Yes,25,Travel_Rarely,Research & Development,3,3,1,Male,1,Laboratory Technician,1,Married,13,3,6,2,2,0,2
+Yes,21,Travel_Rarely,Sales,7,1,2,Male,1,Sales Representative,2,Single,13,3,1,1,0,1,0
+Yes,32,Travel_Rarely,Research & Development,2,4,4,Male,1,Laboratory Technician,2,Single,12,3,1,1,0,0,0
+Yes,33,Travel_Frequently,Research & Development,3,3,1,Male,1,Research Scientist,1,Single,11,3,10,10,8,9,7
+Yes,52,Travel_Rarely,Sales,2,1,1,Female,5,Manager,4,Married,15,3,33,32,14,6,9
+Yes,30,Travel_Frequently,Sales,26,4,3,Female,2,Sales Executive,1,Single,15,3,9,6,3,0,1
+Yes,22,Travel_Rarely,Research & Development,8,1,3,Female,1,Laboratory Technician,1,Married,17,3,1,1,0,0,0
+Yes,26,Travel_Rarely,Human Resources,20,2,4,Female,1,Human Resources,2,Married,11,3,6,5,1,1,4
+Yes,20,Travel_Frequently,Research & Development,6,3,4,Female,1,Laboratory Technician,4,Single,18,3,1,1,0,1,0
+Yes,18,Travel_Rarely,Research & Development,3,3,3,Male,1,Laboratory Technician,3,Single,13,3,0,0,0,0,0
+Yes,51,Travel_Rarely,Research & Development,4,4,1,Male,1,Research Scientist,3,Married,12,3,18,10,0,2,7
+Yes,33,Travel_Frequently,Research & Development,29,4,1,Female,2,Research Scientist,3,Single,22,4,14,13,7,3,8
+Yes,37,Travel_Rarely,Research & Development,11,2,1,Female,2,Healthcare Representative,2,Married,15,3,15,1,0,0,0
+Yes,30,Travel_Rarely,Research & Development,22,3,1,Female,1,Research Scientist,3,Married,11,3,7,5,2,0,1
+Yes,29,Travel_Rarely,Sales,9,3,2,Female,1,Sales Representative,2,Single,13,3,2,2,2,2,2
+Yes,29,Travel_Rarely,Human Resources,13,3,1,Male,1,Human Resources,1,Divorced,15,3,4,2,2,2,0
+Yes,32,Travel_Frequently,Research & Development,16,1,2,Female,1,Research Scientist,1,Single,22,4,10,10,2,6,7
+Yes,35,Travel_Frequently,Sales,12,4,4,Male,2,Sales Executive,4,Single,24,4,13,11,9,6,7
+Yes,19,Travel_Rarely,Human Resources,2,2,1,Male,1,Human Resources,4,Single,12,3,1,1,0,0,0
+Yes,26,Travel_Rarely,Research & Development,16,4,1,Male,1,Laboratory Technician,2,Divorced,13,3,5,3,2,0,2
+Yes,53,Travel_Rarely,Research & Development,2,5,3,Female,3,Manufacturing Director,4,Married,16,3,34,33,7,1,9
+Yes,39,Travel_Frequently,Research & Development,2,3,1,Male,4,Healthcare Representative,4,Divorced,11,3,21,18,7,11,5
+Yes,29,Travel_Rarely,Sales,23,1,4,Female,3,Sales Executive,1,Married,13,3,11,11,8,3,10
+Yes,31,Travel_Frequently,Research & Development,20,3,1,Male,3,Healthcare Representative,3,Married,12,3,12,1,0,0,0
+Yes,21,Travel_Rarely,Research & Development,10,3,3,Female,1,Laboratory Technician,1,Single,13,3,1,1,0,1,0
+Yes,20,Travel_Rarely,Research & Development,10,1,4,Male,1,Research Scientist,3,Single,11,3,1,1,0,1,1
+Yes,50,Travel_Frequently,Sales,8,2,2,Male,2,Sales Executive,3,Married,14,3,18,4,3,1,3
+Yes,42,Travel_Frequently,Research & Development,19,3,3,Male,1,Research Scientist,3,Divorced,12,3,7,2,2,2,2
+Yes,20,Travel_Rarely,Research & Development,10,1,4,Male,1,Research Scientist,3,Single,11,3,1,1,0,1,1
+Yes,29,Travel_Rarely,Sales,23,1,4,Female,3,Sales Executive,1,Married,13,3,11,11,8,3,10
+Yes,30,Travel_Frequently,Sales,12,4,2,Male,1,Sales Representative,1,Married,18,3,1,1,0,0,0
+Yes,28,Travel_Rarely,Research & Development,2,4,1,Male,1,Research Scientist,4,Married,13,3,5,3,2,2,2
+Yes,26,Travel_Rarely,Sales,8,3,4,Male,2,Sales Executive,1,Single,17,3,6,4,3,1,2
+Yes,28,Travel_Rarely,Research & Development,17,3,3,Male,1,Laboratory Technician,4,Divorced,12,3,6,4,1,0,3
+Yes,24,Travel_Rarely,Sales,3,2,1,Female,2,Sales Executive,3,Single,14,3,4,2,2,2,0
+Yes,34,Travel_Frequently,Research & Development,9,4,4,Male,2,Laboratory Technician,1,Married,17,3,11,7,1,0,7
+Yes,32,Travel_Rarely,Research & Development,1,3,4,Male,1,Laboratory Technician,3,Single,14,3,4,3,2,1,2
+Yes,26,Travel_Frequently,Research & Development,2,3,1,Male,1,Research Scientist,1,Married,14,3,6,3,2,1,2
+Yes,33,Travel_Rarely,Research & Development,2,2,1,Female,1,Laboratory Technician,1,Married,20,4,13,9,7,1,7
+Yes,31,Travel_Rarely,Research & Development,22,4,4,Male,2,Manufacturing Director,3,Married,15,3,10,10,2,6,7
+Yes,26,Travel_Rarely,Sales,8,3,4,Male,2,Sales Executive,1,Single,17,3,6,4,3,1,2
+Yes,41,Non-Travel,Research & Development,5,2,1,Male,1,Research Scientist,1,Divorced,17,3,5,1,0,0,0
+Yes,32,Travel_Rarely,Research & Development,7,2,4,Male,2,Laboratory Technician,3,Married,18,3,10,10,4,1,1
+Yes,58,Travel_Rarely,Research & Development,23,4,4,Female,3,Healthcare Representative,4,Married,12,3,40,40,10,15,6
+Yes,41,Travel_Rarely,Sales,1,2,2,Female,2,Sales Executive,4,Single,11,3,8,6,4,0,5
+Yes,32,Non-Travel,Sales,11,4,4,Male,2,Sales Executive,3,Married,12,3,6,4,2,1,2
+Yes,44,Travel_Rarely,Human Resources,1,2,2,Male,3,Human Resources,1,Married,14,3,24,20,6,3,6
+Yes,29,Travel_Rarely,Research & Development,18,1,3,Male,1,Research Scientist,4,Single,13,3,4,4,3,0,1
+Yes,34,Travel_Rarely,Sales,24,4,1,Female,2,Sales Executive,2,Single,23,4,16,15,9,10,10
+Yes,30,Travel_Rarely,Research & Development,3,3,4,Female,1,Research Scientist,1,Single,11,3,8,5,2,0,4
+Yes,26,Travel_Frequently,Research & Development,5,2,3,Female,1,Research Scientist,3,Married,14,3,8,8,7,1,7
+Yes,47,Travel_Frequently,Sales,27,2,2,Female,2,Sales Executive,3,Single,12,3,8,5,4,1,3
+Yes,29,Travel_Rarely,Research & Development,7,3,2,Female,1,Laboratory Technician,3,Divorced,13,3,10,7,7,7,7
+Yes,52,Travel_Rarely,Sales,2,1,1,Female,5,Manager,4,Married,15,3,33,32,14,6,9
+Yes,47,Travel_Frequently,Sales,27,2,2,Female,2,Sales Executive,3,Single,12,3,8,5,4,1,3
+Yes,46,Travel_Rarely,Sales,10,3,3,Female,3,Sales Executive,2,Married,21,4,14,8,7,0,7
+Yes,33,Travel_Rarely,Research & Development,25,3,1,Male,1,Research Scientist,2,Single,20,4,5,2,2,2,2
+Yes,22,Travel_Rarely,Research & Development,7,1,4,Male,1,Research Scientist,2,Single,23,4,1,1,0,0,0
+Yes,33,Travel_Frequently,Research & Development,29,4,1,Female,2,Research Scientist,3,Single,22,4,14,13,7,3,8
+Yes,41,Travel_Rarely,Sales,20,2,2,Female,1,Sales Representative,2,Single,22,4,4,4,3,0,2
+Yes,29,Travel_Rarely,Research & Development,1,3,3,Male,1,Research Scientist,3,Single,14,3,7,6,2,1,5
+Yes,31,Travel_Frequently,Sales,1,3,4,Female,1,Sales Representative,2,Single,11,3,3,3,2,2,2
+Yes,56,Travel_Rarely,Research & Development,14,4,2,Female,1,Research Scientist,2,Married,18,3,7,5,4,4,3
+Yes,24,Travel_Frequently,Research & Development,9,3,2,Male,1,Laboratory Technician,1,Single,11,3,4,0,0,0,0
+Yes,31,Travel_Frequently,Sales,1,4,2,Female,1,Sales Representative,3,Single,12,3,1,1,0,0,0
+Yes,36,Travel_Rarely,Research & Development,16,4,3,Female,1,Laboratory Technician,1,Single,16,3,18,17,13,15,14
+Yes,31,Travel_Rarely,Sales,16,4,1,Male,3,Sales Executive,3,Married,13,3,10,1,0,0,0
+Yes,39,Travel_Rarely,Sales,3,2,4,Female,2,Sales Executive,3,Married,18,3,12,1,0,0,0
+Yes,26,Travel_Rarely,Sales,4,4,4,Male,2,Sales Executive,4,Single,12,3,8,8,7,7,4
+Yes,18,Travel_Frequently,Sales,5,3,2,Male,1,Sales Representative,2,Single,14,3,0,0,0,0,0
+Yes,28,Travel_Rarely,Research & Development,2,4,1,Male,1,Research Scientist,4,Married,13,3,5,3,2,2,2
+Yes,29,Travel_Frequently,Sales,13,3,1,Female,2,Sales Executive,2,Single,11,3,7,5,3,0,0
